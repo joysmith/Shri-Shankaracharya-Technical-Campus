@@ -34,11 +34,11 @@ int main()
     }
     if (c == 2)
     {
-       cout << "n is a Prime number" << endl;
+       cout << n << " is a Prime number" << endl;
     }
     else
     {
-         cout << "n is not a Prime number" << endl;
+         cout << n << " is not a Prime number" << endl;
     }
     return 0;
 }
