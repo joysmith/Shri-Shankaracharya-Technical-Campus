@@ -84,6 +84,8 @@ int main(){
 (b)Three Numbers
 
 ```c++
+// C++ Program to Find Largest of Three Numbers
+
 #include <iostream>
 using namespace std;
 
@@ -115,6 +117,8 @@ int main() {
 (c) Four
 
 ```c++
+// C++ Program to Find Largest of Four Numbers
+
 #include <iostream>
 using namespace std;
 int max(int x, int y){
