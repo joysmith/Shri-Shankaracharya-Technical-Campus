@@ -15,35 +15,35 @@ Examples: 2, 3, 13 are prime numbers.
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    /* variable definition and initialization */
-    int n, i, c = 0;
+int main() {
 
-    /* Get user input */
-    cout << "Enter any number n: ";
-    cin>>n;
+  int i, n;
+  bool is_prime = true;
 
-    /*logic*/
-    for (i = 1; i <= n; i++)
-    {
-        if (n % i == 0)
-        {
-           c++;
-        }
+  cout << "Enter a positive integer: ";
+  cin >> n;
+
+  // 0 and 1 are not prime numbers
+  if (n == 0 || n == 1) {
+    is_prime = false;
+  }
+
+  // loop to check if n is prime
+  for (i = 2; i <= n/2; ++i) {
+    if (n % i == 0) {
+      is_prime = false;
+      break;
     }
+  }
 
-    if (c == 2)
-    {
-       cout << n << " is a Prime number" << endl;
-    }
-    else
-    {
-         cout << n << " is not a Prime number" << endl;
-    }
+  if (is_prime)
+    cout << n << " is a prime number";
+  else
+    cout << n << " is not a prime number";
 
-    return 0;
+  return 0;
 }
+
 ```
 
 First of all, you have to include the iostream header file using the "include" preceding by # which tells that hat the header file needs to be process before compilation, hence named preprocessor directive. Now, for removing naming conflict you can use namespace statement within a program.
