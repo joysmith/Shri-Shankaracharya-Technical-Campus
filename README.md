@@ -130,10 +130,15 @@ int max(int x, int y){
     }
 }
 int main(){
+    double n1, n2, n3, n4;
+
+    cout << "Enter three numbers: ";
+    cin >> n1 >> n2 >> n3 >> n4;
+
     int a = 75, b = 18, c = 25, d = 98;
-    int left_max = max(a, b);
-    int right_max = max(c, d);
+    int left_max = max(n1, n2);
+    int right_max = max(n3, n4);
     int final_max = max(left_max, right_max);
-    cout << final_max;
+    cout << "Largest number: " << final_max;
 }
 ```
