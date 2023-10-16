@@ -46,12 +46,6 @@ int main() {
 
 ```
 
-First of all, you have to include the iostream header file using the "include" preceding by # which tells that hat the header file needs to be process before compilation, hence named preprocessor directive. Now, for removing naming conflict you can use namespace statement within a program.
-
-Next, you have to declare three integer type variables 'n', 'i', 'c' and initialize c as 0. Now tell the user to enter any natural number n, using the cout<<""; statement. The 'cin<<' statement will take value from the input device, (here keyboard) and store it to the variable n. Now you have to implement a for - loop which will count from 1 up to n. And within this loop checks whether n divides with i gives value equals to 0 or not. If the condition becomes true increments the value of c.
-
-Now when c == 2, prints that "n is a Prime number" and if c is having value other than 2, prints that "n is not a Prime number". And finally the return 0; statement is used to return an integer type value back to main().
-
 ## 2. Write a Program to read number and to display the largest value between:
 
 (a) Two number
