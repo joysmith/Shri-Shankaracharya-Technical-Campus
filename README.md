@@ -21,7 +21,8 @@ int main()
     int n, i, c = 0;
 
     /* Get user input */
-    cout << "Enter any number n: "; cin>>n;
+    cout << "Enter any number n: ";
+    cin>>n;
 
     /*logic*/
     for (i = 1; i <= n; i++)
