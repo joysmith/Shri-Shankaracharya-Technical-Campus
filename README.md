@@ -32,6 +32,7 @@ int main()
            c++;
         }
     }
+
     if (c == 2)
     {
        cout << n << " is a Prime number" << endl;
@@ -40,6 +41,7 @@ int main()
     {
          cout << n << " is not a Prime number" << endl;
     }
+
     return 0;
 }
 ```
