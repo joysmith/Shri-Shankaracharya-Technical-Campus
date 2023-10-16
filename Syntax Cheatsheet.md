@@ -6,7 +6,9 @@
 
 - [C++ documentation w3schools](https://www.w3schools.com/cpp/default.asp)
 
-How to declare variable
+How to declare variable, what are they use for
+
+- store, access, modify information
 
 ```c++
 // type variableName = value;
