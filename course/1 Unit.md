@@ -10,6 +10,8 @@
 | 8. [overloading ](#8)                                                           | 17. [inline function ](#17)                                 |
 | 9. [polymorphism](#9)                                                           |
 
+---
+
 ## Object-Oriented Programming Concepts:
 
 ### 1. Introduction<a id="1"></a>
