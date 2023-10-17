@@ -47,6 +47,8 @@
 
 ### 13. string<a id="13"></a>
 
+### 14. The standard C++ String class<a id="14"></a>
+
 ```c++
 // Include the string library
 #include <string>
@@ -55,13 +57,42 @@
 string greeting = "Hello";
 ```
 
-### 14. The standard C++ String class<a id="14"></a>
-
 <br>
 
 # Operations on Strings:
 
 ### 15. length<a id="15"></a>
+
+How to use length() method, for getting length of string
+
+```c++
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+  string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  cout << "The length of the txt string is: " << txt.length();
+  return 0;
+}
+```
+
+---
+
+How to use size() method, for getting length of string
+
+```c++
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+  string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  cout << "The length of the txt string is: " << txt.size();
+  return 0;
+}
+
+```
 
 ### 16. capacity<a id="16"></a>
 
