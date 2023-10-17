@@ -32,11 +32,18 @@
 
 ### 9. polymorphism<a id="9"></a>
 
-10. messaging
-11. Structure of C++ program with simple C++ program
-12. Control structures
-13. Function overloading
-14. Function in C++
-15. the main function
-16. Function prototyping
-17. inline function
+### 10. messaging<a id="10"></a>
+
+### 11. Structure of C++ program with simple C++ program<a id="11"></a>
+
+### 12. Control structures<a id="12"></a>
+
+### 13. Function overloading<a id="13"></a>
+
+### 14. Function in C++<a id="14"></a>
+
+### 15. the main function<a id="15"></a>
+
+### 16. Function prototyping<a id="16"></a>
+
+### 17. inline function<a id="17"></a>
