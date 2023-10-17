@@ -12,13 +12,13 @@
 
 ---
 
-## Object-Oriented Programming Concepts:
+# Object-Oriented Programming Concepts:
 
 ### 1. Introduction<a id="1"></a>
 
 ### 2. comparison between procedural programming paradigm and object-oriented programming paradigm<a id="2"></a>
 
-## Basic concepts of object-oriented programming:
+# Basic concepts of object-oriented programming:
 
 ### 3. concepts of an object and a class<a id="3"></a>
 
