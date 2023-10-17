@@ -12,7 +12,6 @@ A prime number is a natural number that has only one and itself as factors. This
 Examples: 2, 3, 13 are prime numbers.
 
 - [how to find prime number 1-100 ](https://www.youtube.com/shorts/uPpLTegQ6Nc)
--
 
 ```c++
 #include <iostream>
