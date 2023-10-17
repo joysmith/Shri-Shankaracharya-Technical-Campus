@@ -6,7 +6,7 @@
 | 4. [type conversion - basic type to class type](#4) | 11. [virtual base class](#11)                                  |
 | 5. [class type to basic type](#5)                   | 12. [object slicing](#12)                                      |
 | 6. [class type to another class type.](#6)          | 13. [overriding member functions](#13)                         |
-| 7. [Introduction](#7)                               | 14. [order of execution of constructors and destructors.](#14) |
+| 7. [Inheritance Introduction](#7)                   | 14. [order of execution of constructors and destructors.](#14) |
 
 ---
 
