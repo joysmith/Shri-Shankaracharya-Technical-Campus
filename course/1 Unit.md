@@ -1,6 +1,6 @@
 | Topic                                                                           | Topic                                                       |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 1. [Introduction ](#1)                                                          | 10. [messaging ](#10)                                       |
+| 1. [OOPs Introduction ](#1)                                                     | 10. [messaging ](#10)                                       |
 | 2. [comparison between procedural programming paradigm and object-oriented](#2) | 11. [Structure of C++ program with simple C++ program](#11) |
 | 3. [concepts of an object and a class ](#3)                                     | 12. [Control structures ](#12)                              |
 | 4. [abstraction ](#4)                                                           | 13. [Function overloading ](#13)                            |
