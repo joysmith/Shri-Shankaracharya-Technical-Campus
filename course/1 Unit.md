@@ -12,18 +12,26 @@
 
 ## Object-Oriented Programming Concepts:
 
-1. Introduction
-2. comparison between procedural programming paradigm and object-oriented programming paradigm
+### 1. Introduction<a id="1">
+
+### 2. comparison between procedural programming paradigm and object-oriented programming paradigm<a id="2">
 
 ## Basic concepts of object-oriented programming:
 
-3. concepts of an object and a class
-4. abstraction
-5. encapsulation
-6. data hiding
-7. inheritance
-8. overloading
-9. polymorphism
+### 3. concepts of an object and a class<a id="3">
+
+### 4. abstraction<a id="4">
+
+### 5. encapsulation<a id="5">
+
+### 6. data hiding<a id="6">
+
+### 7. inheritance<a id="7">
+
+### 8. overloading<a id="8">
+
+### 9. polymorphism<a id="9">
+
 10. messaging
 11. Structure of C++ program with simple C++ program
 12. Control structures
