@@ -47,6 +47,14 @@
 
 ### 13. string<a id="13"></a>
 
+```c++
+// Include the string library
+#include <string>
+
+// Create a string variable
+string greeting = "Hello";
+```
+
 ### 14. The standard C++ String class<a id="14"></a>
 
 <br>
