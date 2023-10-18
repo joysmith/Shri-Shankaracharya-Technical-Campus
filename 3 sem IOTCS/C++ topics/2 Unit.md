@@ -79,7 +79,33 @@ int main() {
 
 ---
 
-How to use size() method, for getting length of string
+### 16. capacity<a id="16"></a>
+
+### 17. resize<a id="17"></a>
+
+```c++
+
+
+  string str ("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+
+  //size of the string is reduced to 6
+  str.resize(6);
+  cout<<"str contains: "<<str << "\n";
+
+  //size of the string is expanded to 7 with character 'C'
+  str.resize(7, 'C');
+  cout<<"str contains: "<<str << "\n";
+
+  //size of the string is expanded to 9 with character '+'
+  str.resize(11, '+');
+  cout<<"str contains: "<<str << "\n";
+  return 0;
+
+```
+
+### 18. capacity<a id="18"></a>
+
+### 19. getline<a id="19"></a>
 
 ```c++
 #include <iostream>
@@ -87,22 +113,19 @@ How to use size() method, for getting length of string
 using namespace std;
 
 int main() {
-  string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  cout << "The length of the txt string is: " << txt.size();
+  string str ("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+
+
+  string name; // variable declaration.
+  cout << "Enter your name :" << endl;
+  getline(cin,name); // implementing a getline() function
+  cout<<"\nHello "<<name;
+
   return 0;
 }
-
 ```
 
-### 16. capacity<a id="16"></a>
-
-### 17. resize<a id="17"></a>
-
-### 18. capacity<a id="18"></a>
-
-### 19. get<a id="19"></a>
-
-### 20. line<a id="20"></a>
+### 20. getline<a id="20"></a>
 
 ### 21. begin<a id="21"></a>
 
