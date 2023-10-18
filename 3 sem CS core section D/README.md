@@ -58,3 +58,6 @@
 | How to get cmd history                     | `history`                               |
 | How to read cmd manual                     | `man nano` 🧱 `man cat` 🧱 `man mkdir`  |
 | which terminal i'm using                   | `which $SHELL`                          |
+| How to upgrade package                     | `sudo apt-get upgrade`                  |
+| How to update package                      | `sudo apt-get update`                   |
+| How to install new package                 | `sudo snap install vlc`                 |
