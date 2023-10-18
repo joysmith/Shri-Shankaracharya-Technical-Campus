@@ -33,11 +33,13 @@
 
 <br>
 
-## Basic cmd
+## Basic cmd NOTE: Following cmd work on Ubuntu distro
 
 | Command                                    | Description                             |
 | ------------------------------------------ | --------------------------------------- |
+| How to access superuser privilege          | `sudo`                                  |
 | How to clear terminal                      | `clear`                                 |
+| How to display message                     | `echo Hello World!!!!!`                 |
 | Where I'm working now                      | `pwd`                                   |
 | How list content                           | `ls`                                    |
 | How to list content including hidden files | `ls -a`                                 |
@@ -54,7 +56,5 @@
 | How to copy file                           | `cp ch1.txt ./folder_path`              |
 | How to move file                           | `mv ch1.txt ./folder_path`              |
 | How to get cmd history                     | `history`                               |
-|                                            |                                         |
-|                                            |                                         |
-|                                            |                                         |
-|                                            |                                         |
+| How to read cmd manual                     | `man nano` 🧱 `man cat` 🧱 `man mkdir`  |
+| which terminal i'm using                   | `which $SHELL`                          |
