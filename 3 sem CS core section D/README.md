@@ -35,7 +35,7 @@
 
 ## Basic cmd NOTE: Following cmd work on Ubuntu distro
 
-| Command                                    | Description                             |
+| Description                                | Command                                 |
 | ------------------------------------------ | --------------------------------------- |
 | How to access superuser privilege          | `sudo`                                  |
 | How to clear terminal                      | `clear`                                 |
