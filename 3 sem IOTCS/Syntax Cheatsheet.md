@@ -6,6 +6,29 @@
 
 - [C++ documentation w3schools](https://www.w3schools.com/cpp/default.asp)
 
+Naming convention for variable
+
+```c++
+int main(){
+
+// snake case
+string marvel_movie;
+
+// pascal case
+string MarvelMovie;
+
+// Camel case
+string marvelMovie
+
+// Hungarian Notation -old one no longer used
+string sMarvelMovie;
+}
+
+
+```
+
+---
+
 How to declare variable, what are they use for
 
 - store, access, modify information
