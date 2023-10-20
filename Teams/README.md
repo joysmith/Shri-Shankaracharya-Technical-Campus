@@ -1,6 +1,6 @@
 # Github walkthrough
 
-> **_Business Objective: Layout_**
+> **_Business Objective: Writing 10 chapter fictional novel inspired from marvel & DC movies_**
 
 <!-- <img src="notes/app.gif" width="400"> -->
 
