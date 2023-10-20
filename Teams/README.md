@@ -18,4 +18,6 @@
 1. Fork/clone repository from this link
 1. Click on green button icon and copy link
 1. open vscode in above tabs, View -> command pallet -> git clone => paste link here then press ⏎
+1. now add new ch2.txt, and write story in 20 words and save file
+1. make commit "my first step or anything u want to"
 1.
