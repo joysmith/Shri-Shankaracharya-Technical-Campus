@@ -8,12 +8,6 @@
 
 1. Explain various type of constructor with an programming example.
 
-1. Define following terms:
-
-- Friend class and friend function
-- This pointer
-- Data hiding
-
 1. Describe dynamic memory allocation in C++ with suitable example.
 
 1. What is meant by initializing of file stream objects? What are input and output stream? Give example
@@ -23,3 +17,9 @@
 - Disinheritance
 - Recursive Association
 - Memory Management
+
+1. Define following terms:
+
+- Friend class and friend function
+- This pointer
+- Data hiding
