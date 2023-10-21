@@ -1,4 +1,4 @@
-# [Teams](https://joysmith.github.io/teams/)
+# [Hall of fame](https://joysmith.github.io/teams/)
 
 ## Github walkthrough
 
