@@ -19,6 +19,16 @@
 ### Setup process
 
 1. Create an account on github
+1. Download vs code [link](https://code.visualstudio.com/download)
+1. Download github desktop [link](https://git-scm.com/downloads)
+1. open bash terminal and type your name and email address
+
+```sh
+
+git config --global user.name "Joy smith peter"
+git config --global user.email joyfakeemail@gmail.com
+```
+
 1. Fork/clone repository from this [link](https://github.com/joysmith/story-writers.git)
 1. Click on green button icon and copy link
 1. Open vscode in above tabs, View -> command pallet -> git clone => paste link here then press ⏎
