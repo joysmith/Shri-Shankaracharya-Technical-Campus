@@ -21,7 +21,7 @@
 1. Create an account on github
 1. Download vs code [link](https://code.visualstudio.com/download)
 1. Download github desktop [link](https://git-scm.com/downloads)
-1. open bash terminal and type your name and email address
+1. open bash terminal by right click on desktop, and type your name and email address
 
 ```sh
 
