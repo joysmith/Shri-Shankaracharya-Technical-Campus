@@ -4,44 +4,50 @@
 
 ## 1. Write a Program to check whether number is prime or no
 
-A prime number is a natural number that has only one and itself as factors. This C++ program used to demonstrates how to find out whether a natural number is prime or not.
-
-Examples: 2, 3, 13 are prime numbers.
-
-- [how to find prime number 1-100 ](https://www.youtube.com/shorts/uPpLTegQ6Nc)
-
 ```c++
+
 #include <iostream>
 using namespace std;
 
+class prime{
+    int num, count;
+
+public:
+    void input(){
+        cout << "enter number" << endl;
+        cin >> num;
+    }
+
+    void check(){
+        count = 0;
+
+        for(int i = 1; i <= num; i ++){
+            if(num %i == 0){
+                count ++;
+            }
+        }
+
+        if(count == 2){
+            cout << num << " is prime number ";
+        }else{
+            cout << num << " not prime number";
+        }
+    }
+};
+
 int main() {
 
-  int i, n;
-  bool is_prime = true;
+    prime test;
+    test.input();
+    test.check();
 
-  cout << "Enter a positive integer: ";
-  cin >> n;
-
-  // 0 and 1 are not prime numbers
-  if (n == 0 || n == 1) {
-    is_prime = false;
-  }
-
-  // loop to check if n is prime
-  for (i = 2; i <= n/2; ++i) {
-    if (n % i == 0) {
-      is_prime = false;
-      break;
-    }
-  }
-
-  if (is_prime)
-    cout << n << " is a prime number";
-  else
-    cout << n << " is not a prime number";
-
-  return 0;
+    return 0;
 }
+
+//    output
+//    enter number
+//    17
+//    17 is prime number
 
 ```
 
