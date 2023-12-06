@@ -1,10 +1,5 @@
 # Object Oriented Programming with C++, Lab CS102391
 
-<img src="notes/oops1.png" width="400">   
-<img src="notes/oops2.png" width="400">  
-<br>
-<br>
-
 # Experiment 01
 
 ## 1. Write a Program to check whether number is prime or no
