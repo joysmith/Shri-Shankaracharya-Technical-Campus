@@ -5,6 +5,8 @@
 <br>
 <br>
 
+# Experiment 01
+
 ## 1. Write a Program to check whether number is prime or no
 
 A prime number is a natural number that has only one and itself as factors. This C++ program used to demonstrates how to find out whether a natural number is prime or not.
@@ -47,6 +49,8 @@ int main() {
 }
 
 ```
+
+# Experiment 02
 
 ## 2. Write a Program to read number and to display the largest value between:
 
@@ -493,6 +497,94 @@ void swap(int &a, int &b){
 
 ## Write an OOP using C++ to count how many time a particular function of class is called
 
+```cpp
+#include <iostream>
+using namespace std;
+
+class Check{
+public:
+    static int count;
+
+    void process(){
+        count++;
+    }
+};
+
+int Check::count = 0;
+
+int main(){
+    Check obj;
+    obj.process();
+    obj.process();
+    obj.process();
+    obj.process();
+
+    Check obj1;
+    obj1.process();
+    obj1.process();
+    obj1.process();
+    obj1.process();
+
+    cout << Check::count << endl;
+    return 0;
+}
+
+void swap(int &a, int &b){
+    int temp = a;
+    a = b;
+    b = temp;
+
+
+}
+
+// output
+// 8
+```
+
 # Experiment 10
 
 ## Write an OOP using C++ to define a constructor for a "Data" class that initialize the data object with initialize value In case initial value are not provided, it should initialize the objects with default values
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Date{
+    int dd, mm, yy;
+public:
+    Date(){
+        dd = 24;
+        mm = 12;
+        yy = 23;
+    }
+
+    void input(){
+        cout << "enter date: ";
+        cin >> dd;
+
+        cout << "enter month: ";
+        cin >> mm;
+
+        cout << "enter year: ";
+        cin >> yy;
+    }
+
+    void output(){
+        cout << "DD-MM-YY :: " << dd << "-" << mm << "-" << yy << endl;
+    }
+};
+
+int main(){
+    Date obj;
+    obj.input();
+    obj.output();
+    return 0;
+}
+
+
+// output
+//    enter date:6
+//    enter month:12
+//    enter year:2023
+//    DD-MM-YY :: 6-12-2023
+```
