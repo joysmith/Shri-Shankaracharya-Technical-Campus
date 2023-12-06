@@ -140,3 +140,182 @@ int main(){
     cout << "Largest number: " << final_max;
 }
 ```
+
+---
+
+# Experiment 03
+
+## Write a program to find sum of first natural number: sum = 1+2+3 ... 100 by using for and while loop
+
+1 For loop
+
+```cpp
+
+#include <iostream>
+using namespace std;
+
+class Natural{
+private:
+    int res;
+
+public:
+    void loop(){
+        res = 0;
+        for(int i = 1; i<=100; i++){
+            res = res + i;
+        }
+
+        cout << "The sum of all natural number is " << res;
+    }
+};
+
+
+int main(){
+    Natural obj;
+    obj.loop();
+    return 0;
+}
+
+// output
+// The sum of all natural number is 5050
+```
+
+2. While loop
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Natural{
+private:
+    int res;
+
+public:
+    void loop(){
+        int i = 1;
+        res = 0;
+
+        while(i <= 100){
+            res = res + i;
+            i++;
+        }
+
+        cout << "The sum of all natural number is " << res;
+    }
+};
+
+
+int main(){
+    Natural obj;
+    obj.loop();
+    return 0;
+}
+
+// output
+// The sum of all natural number is 5050
+```
+
+---
+
+# Experiment 04
+
+## Write a program to find sum of the following series using function declaration:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int power(int, int);
+int fact(int);
+
+int main(){
+    int x, n, sign = 1;
+    float sum = 0;
+
+    cout << "Enter the value of x = " << endl;
+    cin >> x;
+    cout << "Enter the value of n = " << endl;
+    cin >> n;
+
+    for(int i=1; i<=n; i=i+2){
+        sign =1;
+        if(sign%2 != 0){
+            cout << "+" << power(x, i) << "/" << fact(i);
+        }else{
+            cout << "-" << power(x, i) << "/" << fact(i);
+        }
+        sign++;
+    }
+
+    for(int i=1; i<=n; i=i+2){
+        sign = 1;
+        if(sign%2 != 0 ){
+            sum = sum + power(x, i)/fact(i);
+        }else{
+            sum = sum - power(x, i)/fact(i);
+            sign++;
+        }
+
+        cout << endl << "The sum is" << sum;
+        return 0;
+    }
+}
+
+int power(int b, int c){
+    int i, p=1;
+    for(i=1; i<=c; i++){
+        p = p*b;
+    }
+    return p;
+}
+
+int fact(int x){
+    int f =1;
+    int i;
+    for(i=1; i<=x; i++){
+        f = f * i;
+    }
+    return f;
+}
+
+// output
+//    Enter the value of x =
+//    3
+//    Enter the value of n =
+//    3
+//    +3/1+27/6
+//    The sum is 7
+```
+
+# Experiment 05
+
+## Write a program to read the element of the given two matrix and to perform the matrix multiplication
+
+```cpp
+
+```
+
+# Experiment 06
+
+## Write a program to exchange the content of two variable by using a: call by value. b:call by reference
+
+# Experiment 07
+
+## Write a program ti perform the following arithmetic operations of a complex number using a structure
+
+1. addition of 2 complex number
+1. subtraction of 2 complex number
+1. multiplication of 2 complex number
+1. division of 2 complex number
+
+# Experiment 08
+
+## Write an OOP using C++ to exchange the private data member of 2 different function using friend function
+
+# Experiment 09
+
+## Write an OOP using C++ to count how many time a particular function of class is called
+
+# Experiment 10
+
+## Write an OOP using C++ to define a constructor for a "Data" class that initialize the data object with initialize value In case initial value are not provided, it should initialize the objects with default values
