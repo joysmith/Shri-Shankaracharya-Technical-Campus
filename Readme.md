@@ -494,6 +494,82 @@ void swap(int &a, int &b){
 
 ## Write an OOP using C++ to exchange the private data member of 2 different function using friend function
 
+```cpp
+#include<iostream>
+using namespace std;
+
+class BDA;
+
+class AI{
+private:
+    int a;
+
+public:
+    AI(){
+        a = 30;
+    }
+
+    void display1(){
+        cout << a << endl;
+    }
+
+    friend void swap(AI&, BDA&);
+};
+
+class BDA{
+private:
+    int b;
+
+public:
+    BDA(){
+        b = 25;
+    }
+
+    void display2(){
+        cout << b << endl;
+    }
+
+    friend void swap(AI&, BDA&);
+};
+
+
+void swap(AI& obj1, BDA& obj2){
+    int temp;
+    temp = obj1.a;
+    obj1.a = obj2.b;
+    obj2.b = temp;
+}
+
+int main(){
+    AI AIobj;
+    BDA BDobj;
+
+    cout << "The data before swapping" << endl;
+    cout << "AIML data is: " ;
+    AIobj.display1();
+    cout << endl;
+    cout << "BDA data is: ";
+    BDobj.display2();
+    swap(AIobj, BDobj);
+    cout << "The data after swapping " << endl;
+    cout << "AI data is ";
+    AIobj.display1();
+    cout << endl;
+    cout << "BDA data is ";
+    BDobj.display2();
+    return 0;
+
+}
+
+//
+//    The data before swapping
+//    AIML data is: 30
+//    BDA data is: 25
+//    The data after swapping
+//    AI data is 25
+//    BDA data is 30
+```
+
 # Experiment 09
 
 ## Write an OOP using C++ to count how many time a particular function of class is called
