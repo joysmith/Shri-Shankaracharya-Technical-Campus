@@ -490,6 +490,118 @@ void swap(int &a, int &b){
 1. multiplication of 2 complex number
 1. division of 2 complex number
 
+```cpp
+#include<iostream>
+using namespace std;
+
+struct Cp{
+    float real;
+    float img;
+};
+
+class Complex{
+    Cp a, b, three;
+
+public:
+    void input();
+    void addition();
+    void subtraction();
+    void divide();
+    void multiply();
+    void output();
+};
+
+void Complex::input() {
+    cout << "Enter real point of 1st number = " << endl;
+    cin >> a.real;
+    cout << "Enter Imaginary part of 1st number = " << endl;
+    cin >> a.img;
+    cout << "Your first number is: " << a.real << " i" << a.img << endl;
+    cout << "Enter real point part of 2nd number = " << endl;
+    cin >> b.real;
+    cout << "Enter Imaginary part of 2nd number = ";
+    cin >> b.img;
+    cout << "Your 2nd number is: " << b.real << " i" << b.img << endl;
+}
+
+
+void Complex::addition() {
+    three.real = a.real + b.real;
+    three.img = a.img + b.img;
+}
+
+void Complex::subtraction() {
+    three.real = a.real - b.real;
+    three.img = a.img - b.img;
+}
+
+void Complex::multiply() {
+    three.real = a.real * b.real;
+    three.img = a.img * b.img;
+}
+
+void Complex::divide() {
+    float demo = (b.real * b.real) - (b.img * b.img);
+    Cp num;
+    num.real = (a.real * b.real) + (a.img * b.real);
+    three.real = num.real / demo;
+    num.img = (a.img * b.real) - (a.real * b.img);
+    three.img = num.img / demo;
+}
+
+void Complex::output() {
+    cout << "Real part of output is " << three.real << endl;
+    cout << "Imaginary part of output is " << three.img << endl;
+    cout << "Your output number is: " << three.real << " i" << three.img << endl;
+}
+
+int main(){
+
+    Complex obj;
+    obj.input();
+    int a;
+    cout << "What is your choice" << endl;
+    cout << "1. Add" << endl << "2. Subtraction" << endl << "3. Multiply" << endl << "4. Divide" << endl;
+    cin >> a;
+    switch(a){
+        case 1: obj.addition();
+            break;
+        case 2: obj.subtraction();
+            break;
+        case 3: obj.multiply();
+            break;
+        case 4: obj.divide();
+            break;
+    }
+
+    obj.output();
+
+    return 0;
+
+}
+
+
+// output
+//    Enter real point of 1st number =
+//    2
+//    Enter Imaginary part of 1st number =
+//    3
+//    Your first number is: 2 i3
+//            Enter real point part of 2nd number =
+//    5
+//    Enter Imaginary part of 2nd number =4
+//    Your 2nd number is: 5 i4
+//            What is your choice
+//    1. Add
+//    2. Subtraction
+//    3. Multiply
+//    4. Divide
+//    1
+//    Real part of output is 7
+//    Imaginary part of output is 7
+//    Your output number is: 7 i7
+```
+
 # Experiment 08
 
 ## Write an OOP using C++ to exchange the private data member of 2 different function using friend function
