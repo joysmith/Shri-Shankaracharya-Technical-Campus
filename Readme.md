@@ -483,7 +483,7 @@ void swap(int &a, int &b){
 
 # Experiment 07
 
-## Write a program ti perform the following arithmetic operations of a complex number using a structure
+## Write a program to perform the following arithmetic operations of a complex number using a structure
 
 1. addition of 2 complex number
 1. subtraction of 2 complex number
