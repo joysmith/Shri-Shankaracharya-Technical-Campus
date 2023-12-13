@@ -224,74 +224,60 @@ int main(){
 
 # Experiment 04
 
-## Write a program to find sum of the following series using function declaration:
+## Write a program using switch statement for number calculation:
 
 🔴 output wrong
 
 ```cpp
+// Program to build a simple calculator using switch Statement
 #include <iostream>
 using namespace std;
 
-int power(int, int);
-int fact(int);
+class Claculator{
+private:
+    char oper;
+    float num1, num2;
 
-int main(){
-    int x, n, sign = 1;
-    float sum = 0;
-
-    cout << "Enter the value of x = " << endl;
-    cin >> x;
-    cout << "Enter the value of n = " << endl;
-    cin >> n;
-
-    for(int i=1; i<=n; i=i+2){
-        sign =1;
-        if(sign%2 != 0){
-            cout << "+" << power(x, i) << "/" << fact(i);
-        }else{
-            cout << "-" << power(x, i) << "/" << fact(i);
-        }
-        sign++;
-    }
-
-    for(int i=1; i<=n; i=i+2){
-        sign = 1;
-        if(sign%2 != 0 ){
-            sum = sum + power(x, i)/fact(i);
-        }else{
-            sum = sum - power(x, i)/fact(i);
-            sign++;
-        }
-
-        cout << endl << "The sum is" << sum;
-        return 0;
-    }
+public:
+void input() {
+    cout << "Enter an operator (+, -, *, /): ";
+    cin >> oper;
+    cout << "Enter two numbers: " << endl;
+    cin >> num1 >> num2;
 }
 
-int power(int b, int c){
-    int i, p=1;
-    for(i=1; i<=c; i++){
-        p = p*b;
+void process(){
+    switch (oper) {
+        case '+':
+            cout << num1 << " + " << num2 << " = " << num1 + num2;
+            break;
+        case '-':
+            cout << num1 << " - " << num2 << " = " << num1 - num2;
+            break;
+        case '*':
+            cout << num1 << " * " << num2 << " = " << num1 * num2;
+            break;
+        case '/':
+            cout << num1 << " / " << num2 << " = " << num1 / num2;
+            break;
+        default:
+            // operator is doesn't match any case constant (+, -, *, /)
+            cout << "Error! The operator is not correct";
+            break;
     }
-    return p;
+
+}
+};
+int main() {
+    Claculator obj;
+    obj.input();
+    obj.process();
+
+
+
+    return 0;
 }
 
-int fact(int x){
-    int f =1;
-    int i;
-    for(i=1; i<=x; i++){
-        f = f * i;
-    }
-    return f;
-}
-
-// output
-//    Enter the value of x =
-//    3
-//    Enter the value of n =
-//    3
-//    +3/1+27/6
-//    The sum is 7
 ```
 
 # Experiment 05
