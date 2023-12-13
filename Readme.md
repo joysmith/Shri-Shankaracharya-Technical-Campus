@@ -226,8 +226,6 @@ int main(){
 
 ## Write a program using switch statement for number calculation:
 
-🔴 output wrong
-
 ```cpp
 // Program to build a simple calculator using switch Statement
 #include <iostream>
