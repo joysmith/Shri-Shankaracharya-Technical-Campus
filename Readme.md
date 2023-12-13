@@ -268,6 +268,7 @@ void process(){
 
 }
 };
+
 int main() {
     Claculator obj;
     obj.input();
@@ -278,6 +279,11 @@ int main() {
     return 0;
 }
 
+// Enter an operator (+, -, *, /):+
+//  Enter two numbers:
+// 5
+// 5
+// 5 + 5 = 10
 ```
 
 # Experiment 05
