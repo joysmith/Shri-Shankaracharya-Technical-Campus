@@ -63,3 +63,15 @@
 
 - NO
 - You can come to college for doubt session.
+
+## Do and Don't
+
+**Do's**
+
+- Start Study for answer writing. The better you write the good the **degree** would be.
+- Write syntax, program and explain the program. if needed explain with diagram
+
+**Don't**
+
+- Now don't study for learning C++, because the time is over you will judge on the basis of answer writing.
+- You can master C++, or build your own Operating system after passing the exam.
