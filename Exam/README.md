@@ -12,17 +12,26 @@
   - Good for helping you in exam
   - I already created some notes for you for the author so you don't have to make anything [clink me](https://github.com/joysmith/cpp-by-sourab-shukla-sir/tree/main)
 
+<br>
+<br>
+
 ## Where to get reference code for answer writing, Sir you only given us theory portion and little code
 
 - You can use "E balagurusamy 📖" book code example, (the book is mention in your syllabus)
 - You can try my link i.e lab one[clink me](https://github.com/joysmith/cpp)
 - If you know how to write code in C++, then that's great 👍. You can write syntax, and program as example.
 
+<br>
+<br>
+
 ## Do I have to write your answer in answersheet as it is?
 
 - no you don't have to write answer as i wrote
 - I prepared these notes for student who are busy.
 - Means you can write your own answers in your words, but they have to be topic specific.
+
+<br>
+<br>
 
 ## Sir are you the one who gonna make our question paper
 
@@ -31,15 +40,24 @@
 - that's why i have given you question bank.
 - "no matter how the wind is strong you will make it"
 
+<br>
+<br>
+
 ## Are you the one who will check our answer sheet
 
 - nope, I wont be checking your answer sheet
 - there are 5% certainty though
 
+<br>
+<br>
+
 ## I'm still struggling with some topic can you help me
 
 - Yes make list of topic, come to college in lecture time and ask
 - but before coming plz send me topic list in whatapp that you going to ask
+
+<br>
+<br>
 
 ## Can you make online video for some topic that i'm struggling with to help us
 
