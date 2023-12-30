@@ -1,6 +1,6 @@
 ## Where to learn some c++ topics, I couldn't understand anything. I haven't attend any class, or i've been irregular, some of the concept i forgot.
 
-- Take this c++ course in hindi here is the playlist [clink me](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF)
+- Take this c++ course in hindi here is the playlist [clink me](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF){:target="\_blank"}
 - Disadvantage
   - old compiler turbo C++, is being used
   - mixed c and c++ code being used
