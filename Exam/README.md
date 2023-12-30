@@ -1,3 +1,5 @@
+# FAQ
+
 ## Where to learn some c++ topics, I couldn't understand anything. I haven't attend any class, or i've been irregular, some of the concept i forgot.
 
 - Take this c++ course in hindi here is the playlist
