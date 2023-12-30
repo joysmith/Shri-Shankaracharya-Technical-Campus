@@ -33,3 +33,13 @@
 
 - nope, I wont be checking your answer sheet
 - there are 5% certainty though
+
+## I'm still struggling with some topic can you help me
+
+- Yes make list of topic, come to college in lecture time and ask
+- but before coming plz send me topic list in whatapp that you going to ask
+
+## Can you make online video for some topic that i'm struggling with to help us
+
+- NO
+- You can come to college for doubt session
