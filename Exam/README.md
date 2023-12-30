@@ -66,6 +66,9 @@
 - NO
 - You can come to college for doubt session.
 
+<br>
+<br>
+
 ## Do and Don't
 
 **Do's**
