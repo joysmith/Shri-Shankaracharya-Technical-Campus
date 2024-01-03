@@ -78,6 +78,11 @@
 - I already sent in group
 - You can get from library
 
+## When should I come for practical files
+
+- I'm involved in end sem exam duty from next week i.e monday(8-jan-2024) to sat(13-jan-2024), means I don't have time
+- Try to get check your practical file before saturday(6-jan-2024) this week.
+
 ## Do and Don't
 
 **Do's**
