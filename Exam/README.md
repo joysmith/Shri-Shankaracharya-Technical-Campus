@@ -1,9 +1,13 @@
 # FAQ
 
+## How many units are coming in CT 2
+
+- 3, 4, 5 units are coming
+
 ## Where to learn some c++ topics, I couldn't understand anything. I haven't attend any class, or i've been irregular, some of the concept i forgot.
 
 - Take this c++ course in hindi here is the playlist
-  <a href="https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF" target="_blank">clink me</a>
+  <a href="https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF" target="_blank">click me</a>
 
 - Disadvantage
   - old compiler turbo C++, is being used
@@ -68,6 +72,11 @@
 
 <br>
 <br>
+
+## Where to get previous year question paper
+
+- I already sent in group
+- You can get from library
 
 ## Do and Don't
 
