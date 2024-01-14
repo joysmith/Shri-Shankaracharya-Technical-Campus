@@ -2,6 +2,8 @@
 
 - [click me](https://sstc.ac.in/syllabuss)
 
+---
+
 UNIT I
 Introduction: Historical development ,Vision of Cloud Computing, Characteristics of cloud
 computing as per NIST , Cloud computing reference model ,Cloud computing environments, Cloud services requirements, its advantages and limitations, Cloud and dynamic infrastructure, Cloud Adoption and rudiments.

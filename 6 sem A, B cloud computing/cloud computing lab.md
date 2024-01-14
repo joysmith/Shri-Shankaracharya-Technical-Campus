@@ -1,3 +1,9 @@
+## Where to get 6 sem syllabus
+
+- [click me](https://sstc.ac.in/syllabuss)
+
+---
+
 - Cloud computing overview , - What is Infrastructure as a Service (IaaS), What is Platform as a Service (PaaS), What is Software as a Service (SaaS)
 - Cloud computing models ,Advantages of using cloud , AWS Global Infrastructure, AWS Shared Responsibility Model
 - AWS Elastic Cloud Compute (EC2)
