@@ -47,9 +47,7 @@
 
 <summary>IOTCS</summary>
 
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+update soon
 
 </details>
 
@@ -57,9 +55,7 @@ You can add an image or a code block, too.
 
 <summary>CORE D</summary>
 
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+update soon
 
 </details>
 
