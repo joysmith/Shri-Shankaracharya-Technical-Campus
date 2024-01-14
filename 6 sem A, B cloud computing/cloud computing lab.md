@@ -8,8 +8,7 @@
 - Cloud computing models ,Advantages of using cloud , AWS Global Infrastructure, AWS Shared Responsibility Model
 - AWS Elastic Cloud Compute (EC2)
 - AWS Pricing Calculator
-- Create Linux Instance , - Using Putty to connect to Linux Instance, Implement Apache Web
-  Server on Linux Instance
+- Create Linux Instance , - Using Putty to connect to Linux Instance, Implement Apache Web Server on Linux Instance
 - Create Windows Instance
 - Tools Used For Accessing Cloud
 - Elastic Block Storage (EBS), Simple Storage Service (S3)
