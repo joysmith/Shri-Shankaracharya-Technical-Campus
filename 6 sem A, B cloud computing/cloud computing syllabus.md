@@ -20,7 +20,7 @@
 
 ## Unit-II
 
-Cloud Computing Architecture:
+### Cloud Computing Architecture:
 
 10. Cloud Reference Model,
 11. Concept of IaaS,
@@ -50,7 +50,7 @@ Cloud Computing Architecture:
 
 ## Unit –III
 
-Cloud Management & Virtualization Technology:
+### Cloud Management & Virtualization Technology:
 
 35. Resiliency,
 36. Provisioning,
@@ -59,7 +59,7 @@ Cloud Management & Virtualization Technology:
 39. Cloud Governance,
 40. High Availability and Disaster Recovery.
 
-Virtualization:
+### Virtualization:
 
 41. Fundamental concepts of compute ,
 42. storage,
@@ -73,18 +73,18 @@ Virtualization:
 
 ## Unit-IV
 
-Cloud Solutions:
+### Cloud Solutions:
 
 47. Cloud Ecosystem,
 48. Cloud Business Process Management,
 49. Cloud Service Management.
 
-Cloud Offerings:
+### Cloud Offerings:
 
 50. Cloud Analytics,
 51. Testing Under Control,
 
-Cloud Security:
+### Cloud Security:
 
 52. Cloud Information security fundamentals,
 53. Cloud security services, Design principles,
@@ -98,13 +98,13 @@ Cloud Security:
 
 59. Market Based Management of Clouds ,
 
-Federated Clouds/Inter Cloud:
+### Federated Clouds/Inter Cloud:
 
 60. Characterization & Definition ,
 61. Cloud Federation Stack ,
 62. Third Party Cloud Services .
 
-Overview of cloud applications:
+### Overview of cloud applications:
 
 63. ECG Analysis in the cloud,
 64. Protein structure prediction,
@@ -113,7 +113,7 @@ Overview of cloud applications:
 67. CRM and ERP ,
 68. Social networking .
 
-Case study :
+### Case study :
 
 69. Google App Engine,
 70. Microsoft Azure ,
