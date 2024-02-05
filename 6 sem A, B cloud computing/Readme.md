@@ -1,7 +1,7 @@
 ## PART 1
 
-1.  select asia-pacific mumbai region
-1.  go to aws console and create ec2 instance: service -> compute -> ec2 instance
+1.  go to aws console, select asia-pacific mumbai region
+1.  create ec2 instance: service -> compute -> ec2 instance
 1.  select running instance
 1.  select launch instance, then
 1.  select ubuntu image as an OS as t2-micro (free one)
