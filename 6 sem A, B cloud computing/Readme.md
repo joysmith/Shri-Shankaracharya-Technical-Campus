@@ -1,23 +1,25 @@
-## PART 1
+# Create Linux Instance - Using Putty to connect to Linux Instance, Implement Apache Web Server on Linux Instance
 
-1.  go to aws console, select asia-pacific mumbai region
-1.  create ec2 instance: service -> compute -> ec2 instance
-1.  select "running instance"
-1.  select "launch instance", then
-1.  select "ubuntu" image as an OS as t2-micro (free one)
-1.  create key-pair login ".pem" file or .ppk file, then launch server
-1.  select "connect to server"
-1.  download & install putty [click me](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-1.  open putty app, copy public ip from aws instance to "host name" ex: "ubuntu@51.20.191.33"
-1.  open putty gen app to generate private .ppk file from .pem file
+### PART 1
+
+1.  Go to aws console, select asia-pacific mumbai region
+1.  Create ec2 instance: service -> compute -> ec2 instance
+1.  Select "running instance"
+1.  Select "launch instance", then
+1.  Select "ubuntu" image as an OS as t2-micro (free one)
+1.  Create key-pair login ".pem" file or .ppk file, then launch server
+1.  Select "connect to server"
+1.  Download & install putty [click me](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+1.  Open putty app, copy public ip from aws instance to "host name" ex: "ubuntu@51.20.191.33"
+1.  Open putty gen app to generate private .ppk file from .pem file
 1.  In putty app, under connection -> SSH -> auth -> credential -> .ppk (select private key file)
 1.  In putty go to session and saved it with some name, then load it and open putty session to log in to ubuntu server
 
-### how to directly open session on browser without putty
+#### how to directly open session on browser without putty
 
 1.  go to aws console and select any instance -> (look on above tab) connect -> (look below do scrolling)connect
 
-## PART 2
+### PART 2
 
 How to use [request module ](https://www.npmjs.com/package/request) ?
 <br>
