@@ -41,13 +41,21 @@
   sudo apt install apache2
 ```
 
-4. How to test if the apache2 server is running or not
+4. go to AWS, select instance setup inbound rules
+
+```sh
+Type    protocol    port range    source
+HTTP    TCP         80            anywhere
+HTTPS   TCP         443            anywhere
+```
+
+5. How to test if the apache2 server is running or not
 
 ```
   sudo service apache2 status
 ```
 
-5. run ifconfig cmd to know the ip address put it in browser
+6. run ifconfig cmd to know the ip address put it in browser
 
 ```sh
 ifconfig
