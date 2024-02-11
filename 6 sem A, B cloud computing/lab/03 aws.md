@@ -43,6 +43,8 @@
 
 4. go to AWS, select instance setup inbound rules
 
+- AWS(EC2) --> running instance --> instance id --> security--> Inbound(launch wizard) --> security group id --> edit rules
+
 ```sh
 Type    protocol    port range    source
 HTTP    TCP         80            anywhere
@@ -53,12 +55,6 @@ HTTPS   TCP         443            anywhere
 
 ```
   sudo service apache2 status
-```
-
-6. run ifconfig cmd to know the ip address put it in browser
-
-```sh
-ifconfig
 ```
 
 ### About apache2 package structure
