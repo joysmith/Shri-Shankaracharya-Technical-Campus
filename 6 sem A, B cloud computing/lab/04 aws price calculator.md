@@ -1,11 +1,11 @@
 # AWS price calculator
 
-1. Head over to this link for calculating aws price[click me](https://calculator.aws/#/), then click on estimate
+1. Head over to this link for calculating aws price [click me](https://calculator.aws/#/), then click on estimate
 1. Choose region --> Asia Pacific- mumbai
 1. Find service--> ec2
 1. select: Amazon EC2 --> configure
 
-## 5 year plan for learnify
+## 5 year plan for learnify (online course selling startup)
 
 | Day    | Hour                                              | cost!                    |
 | ------ | ------------------------------------------------- | ------------------------ |
