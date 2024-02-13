@@ -1,4 +1,4 @@
-# Create Linux Instance - Using Putty to connect to Linux Instance, Implement Apache Web Server on Linux Instance
+# 05 Create Linux Instance - Using Putty to connect to Linux Instance, Implement Apache Web Server on Linux Instance
 
 ### PART 1
 
