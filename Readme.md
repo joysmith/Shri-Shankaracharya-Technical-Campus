@@ -17,6 +17,8 @@
 | [emojipedia](https://emojipedia.org/)                                    | emoji                       |
 | [ascii](https://ascii.co.uk/art)                                         | ascii art                   |
 | [patorjk](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=joy) | ascii art generator         |
+| [lipsum](https://www.lipsum.com/)                                        | dummy text generator        |
+| [loremipsum](https://loremipsum.io/generator/)                           | dummy text generator        |
 | [colorhunt](https://colorhunt.co/)                                       | color pallet                |
 | [coolors](https://coolors.co/palettes/trending)                          | color pallet                |
 | [favicon](https://www.favicon.cc/)                                       | favicon generator           |
