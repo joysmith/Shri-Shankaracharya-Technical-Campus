@@ -5,9 +5,9 @@
 | [codeply](https://www.codeply.com/)           | (framework) Angular, React, **Bootstrap**, Tailwind, Vue                  |
 | [codesandbox](https://codesandbox.io/)        | (framework) Angular, **React**, Vue, Next.js, gatsby, Bootstrap, Tailwind |
 | [codepen](https://codepen.io/)                | Html, Css, Js                                                             |
-| [p5.js](https://p5js.org/get-started/)        | Js                                                                        |
+| [p5.js](https://p5js.org/get-started/)        | Js (visual)                                                               |
+| [openprocessing](https://openprocessing.org/) | js (visual)                                                               |
 | [replit](https://replit.com/)                 | python, java, C, C++, C#, node ...                                        |
-| [openprocessing](https://openprocessing.org/) | js                                                                        |
 
 ## Free Assets
 
@@ -30,7 +30,7 @@
 | [pixabay](https://pixabay.com/videos/)                                   | free video           |
 | [canva](https://www.canva.com/)                                          | image editor         |
 
-## Js library
+## Js library or API
 
 | documentation               | Usage            |
 | --------------------------- | ---------------- |
