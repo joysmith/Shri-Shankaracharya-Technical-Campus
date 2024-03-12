@@ -35,3 +35,10 @@
 | Online IDE                  | framework, language support |
 | --------------------------- | --------------------------- |
 | [ml5js](https://ml5js.org/) | machine learning            |
+
+## 32 bit software
+
+| Online IDE                                                                                                                                                                                                                                            | framework, language support |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [VS code](https://update.code.visualstudio.com/1.32.3/win32-user/stable)                                                                                                                                                                              | multi lang support          |
+| [pycharm](https://download.jetbrains.com/python/pycharm-community-2018.3.7.exe?_ga=2.234302878.1828403692.1710257105-1898456485.1710257105&_gl=1*1iv8j5*_ga*MTg5ODQ1NjQ4NS4xNzEwMjU3MTA1*_ga_9J976DJZ68*MTcxMDI2NTg1MS4zLjAuMTcxMDI2NTg1MS42MC4wLjA.) | python ide                  |
