@@ -6,6 +6,8 @@ All heads/faculty/students/staff members are hereby informed that the next unive
 
 ## Timetable
 
+<img src="6 sem A, B cloud computing/temp asset/timetable.jpeg width="700">
+
 [Time table]<6 sem A, B cloud computing/temp asset/timetable.jpeg width="700">
 
 ## How many units are coming in CT 1
