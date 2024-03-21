@@ -8,10 +8,13 @@ All heads/faculty/students/staff members are hereby informed that the next unive
 
 - 1, 2, 3 units are coming
 
+<br>
+<br>
+
 ## Where to get notes and Book for answer writing.
 
 - [Syllabus link](https://supreme.sstc.ac.in/pdf/syllabus/CSE%206.pdf)
-- You can use "Mastering Cloud Computing by Buyya, Cloud Computing by Kumar Saurabh 📖" book.(the book is mention in your syllabus)
+- You can use "Mastering Cloud Computing by Buyya, Cloud Computing by Kumar Saurabh 📖" book.(these book are mention in your syllabus)
 
 <br>
 <br>
