@@ -10,6 +10,7 @@ All heads/faculty/students/staff members are hereby informed that the next unive
 
 <br>
 <br>
+
 ## Where to get notes and Book for answer writing.
 
 - [Syllabus link](https://supreme.sstc.ac.in/pdf/syllabus/CSE%206.pdf)
