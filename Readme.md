@@ -4,6 +4,10 @@
 
 All heads/faculty/students/staff members are hereby informed that the next university examination of even &odd semesters of all courses under Autonomous will be conducted by CSVTU henceforth. Papersetting/evaluation & conduction will be done by CSVTU.
 
+## Timetable
+
+![Time table](<6 sem A, B cloud computing/temp asset/timetable.jpeg>)
+
 ## How many units are coming in CT 1
 
 - 1, 2, 3 units are coming
