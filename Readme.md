@@ -4,22 +4,37 @@
 
 All heads/faculty/students/staff members are hereby informed that the next university examination of even &odd semesters of all courses under Autonomous will be conducted by CSVTU henceforth. Papersetting/evaluation & conduction will be done by CSVTU.
 
+<br>
+<br>
+
 ## Internal Timetable
 
 ![alt text](<6 sem A, B cloud computing/temp asset/Practical.jpeg>)
+
+<br>
+<br>
 
 ## What is internal?
 
 a simulation setup before final exam.
 to give you sessional on basis of file making and answering question
 
+<br>
+<br>
+
 ## What is viva? what we do on viva.
 
 Ask question on given practical or on other topic of cloud computing
 
+<br>
+<br>
+
 ## How your practical file should look like.
 
 ![alt text](<6 sem A, B cloud computing/temp asset/file.jpeg>)
+
+<br>
+<br>
 
 ## Some viva related question for preparation
 
@@ -41,7 +56,13 @@ Ask question on given practical or on other topic of cloud computing
 - Name 10 topic from your syllabus
   some more ... and expect unexpected
 
+<br>
+<br>
+
 ## Mention practical dates
+
+<br>
+<br>
 
 ## Sir I can't come on internal day.
 
@@ -49,11 +70,19 @@ Create application for HOD Sir, make application sign by him.
 Contact your class teacher.
 now you can submit me softcopy on my whatapp number
 
+<br>
+<br>
+
 ## How to talk to external on Exam day
 
 - be humble don't provoke him/her.
 - don't show ego
 - answer nicely, after all he is holding your marks and he can pass you or fail you
+
+---
+
+<br>
+<br>
 
 ## CT 2 Timetable
 
