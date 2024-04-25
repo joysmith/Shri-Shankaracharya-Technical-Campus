@@ -98,7 +98,7 @@ now you can submit me softcopy on my whatapp number
 ## Where to get notes and Book for answer writing.
 
 - [Syllabus link](https://supreme.sstc.ac.in/pdf/syllabus/CSE%206.pdf)
-- [Notes](<6 sem A, B cloud computing/temp asset/cloud computing.pdf>)
+- [text](<6 sem A, B cloud computing/temp asset/4-5 units.pdf>)
 - You can use "Mastering Cloud Computing by Buyya, Cloud Computing by Kumar Saurabh 📖" book.(these book are mention in your syllabus)
 
 <br>
