@@ -48,12 +48,12 @@ Ask question on given practical or on other topic of cloud computing
 Create application for HOD Sir, make application sign by him.
 Contact your class teacher.
 now you can submit me softcopy on my whatapp number
-How to talk to external on Exam day
-be humble don't provoke him/her.
 
-don't show ego
+## How to talk to external on Exam day
 
-answer nicely, after all he is holding your marks and he can pass you or fail you
+- be humble don't provoke him/her.
+- don't show ego
+- answer nicely, after all he is holding your marks and he can pass you or fail you
 
 ## CT 2 Timetable
 
