@@ -19,6 +19,8 @@ Ask question on given practical or on other topic of cloud computing
 
 ## How your practical file should look like.
 
+![alt text](<6 sem A, B cloud computing/temp asset/file.jpeg>)
+
 ## Some viva related question for preparation
 
 - What is your practical.
