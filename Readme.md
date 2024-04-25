@@ -8,7 +8,50 @@ All heads/faculty/students/staff members are hereby informed that the next unive
 
 ![alt text](<6 sem A, B cloud computing/temp asset/Practical.jpeg>)
 
----
+## What is internal?
+
+a simulation setup before final exam.
+to give you sessional on basis of file making and answering question
+
+## What is viva? what we do on viva.
+
+Ask question on given practical or on other topic of cloud computing
+
+## How your practical file should look like.
+
+## Some viva related question for preparation
+
+- What is your practical.
+- Define cloud computing
+- What is SaaS, PaaS, IaaS
+- Name AWS web services
+- What is EC2: Amazon Elastic Compute Cloud
+- What is Hypervisor
+- What is type 1 and type 2 Hypervisor
+- Types of Cloud
+- What is hybrid cloud, public, private clouds
+- Prepare any 5 different topics you are good in
+
+- Name the Software that you use to perform practical : AWS i.e amazon web services by Amazon or Virtual Box by Oracle
+- What is the name of book you used to learn: "Mastering Cloud Computing by Buyya, Cloud Computing by Kumar Saurabh
+- Explain any topic of cloud computing that you are good in.
+- Name 5 unit of syllabus
+- Name 10 topic from your syllabus
+  some more ... and expect unexpected
+
+## Mention practical dates
+
+## Sir I can't come on internal day.
+
+Create application for HOD Sir, make application sign by him.
+Contact your class teacher.
+now you can submit me softcopy on my whatapp number
+How to talk to external on Exam day
+be humble don't provoke him/her.
+
+don't show ego
+
+answer nicely, after all he is holding your marks and he can pass you or fail you
 
 ## CT 2 Timetable
 
