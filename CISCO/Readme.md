@@ -3,9 +3,9 @@
 ### In Which order we should begin course
 
 1. CCNA: Introduction to packet tracer
-1. Introduction to cyber security - proceed now
-1. Cybersecurity essential - proceed now
-1. Programming essential with python - proceed now
+1. Introduction to cyber security
+1. Cybersecurity essential
+1. Programming essential with python
 1. CCNA: Introduction to network - Exam Start from 15 May
 
 <br>
