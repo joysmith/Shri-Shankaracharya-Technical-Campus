@@ -27,3 +27,7 @@
 - Here is the answer key [Click me]()
 
 <br>
+
+### How to intall packet tracer
+
+- Here is the process [Click me](https://www.youtube.com/watch?v=JaIweueW-E8)
