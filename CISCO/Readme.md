@@ -22,12 +22,14 @@
 
 <br>
 
+### How to intall packet tracer
+
+- Here is the process [Click me](https://www.youtube.com/watch?v=JaIweueW-E8)
+
+<br>
+
 ### How to complete python essential course
 
 - Here is the reference [Click me](https://infraexam.com/python-institute/pe1-python-essentials-1-basics/pe1-python-essentials-1-module-1-test/)
 
 <br>
-
-### How to intall packet tracer
-
-- Here is the process [Click me](https://www.youtube.com/watch?v=JaIweueW-E8)
