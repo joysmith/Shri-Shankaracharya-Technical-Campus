@@ -37,3 +37,7 @@
 #### 6. Can we watch or review CISCO tutorial video, after course completion deadline
 
 - No, once the date is over, if you have completed the program you can only generate certificate but you cant access video resources
+
+### 7. Introduction to network(CCNA)
+
+- Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
