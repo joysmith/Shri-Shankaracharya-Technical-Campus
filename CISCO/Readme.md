@@ -34,7 +34,7 @@
 
 <br>
 
-#### 6. Can we watch or review CISCO tutorial video, after course completion deadline
+### 6. Can we watch or review CISCO tutorial video, after course completion deadline
 
 - No, once the date is over, if you have completed the program you can only generate certificate but you cant access video resources
 
