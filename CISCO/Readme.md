@@ -40,4 +40,5 @@
 
 ### 7. Introduction to network(CCNA)
 
-- Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
+- 1. Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
+- 2. Here is the reference [Click me](https://www.ccna6.com/ccna-1-v7-0-modules-1-3-exam-answers/)
