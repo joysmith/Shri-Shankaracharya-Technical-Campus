@@ -1,3 +1,10 @@
+# You MUST use CHROME BROWSER
+
+- no firefox
+- no edge
+- no safari
+- no brave, so on and so forth
+
 ## CISCO walkthrough
 
 ### 1. In Which order we should begin course
@@ -41,4 +48,4 @@
 ### 7. Introduction to network(CCNA)
 
 - 1. Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
-- 2. Here is the reference [Click me](https://www.ccna6.com/ccna-1-v7-0-modules-1-3-exam-answers/)
+- HOw to generate certificate [Click me](https://www.youtube.com/watch?v=cZ7pZidlkxU)
