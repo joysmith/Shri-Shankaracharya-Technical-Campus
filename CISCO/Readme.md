@@ -47,5 +47,5 @@
 
 ### 7. Introduction to network(CCNA)
 
-- 1. Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
-- HOw to generate certificate [Click me](https://www.youtube.com/watch?v=cZ7pZidlkxU)
+- Here is the reference [Click me](https://itexamanswers.net/ccna-1-v7-modules-16-17-building-and-securing-a-small-network-exam-answers.html)
+- How to generate certificate [Click me](https://www.youtube.com/watch?v=cZ7pZidlkxU)
