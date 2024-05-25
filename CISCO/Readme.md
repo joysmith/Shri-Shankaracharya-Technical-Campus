@@ -1,9 +1,11 @@
-# You MUST use CHROME BROWSER
+# You MUST use CHROME BROWSER on Desktop/Laptop
 
 - no firefox
 - no edge
 - no safari
 - no brave, so on and so forth
+- no smart phone
+- no tablet
 
 ## CISCO walkthrough
 
