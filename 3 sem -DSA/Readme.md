@@ -2,10 +2,10 @@
 
 ### Introduction:
 
-Introduction: Basic Terminology,
-Elementary Data Organization,
-Algorithm,
-And Efficiency of an Algorithm,
+Introduction: Basic Terminology,  
+Elementary Data Organization,  
+Algorithm,  
+And Efficiency of an Algorithm,  
 Time and Space Complexity,
 
 ### Asymptotic notations:
