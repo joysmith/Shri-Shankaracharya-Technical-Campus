@@ -168,10 +168,10 @@
 
 - [ ] Storage Management: Garbage Collection and Compaction.
 
-<br>
-<br>
-
 ---
+
+<br>
+<br>
 
 ## 🧪 LAB (any 10)
 
@@ -212,3 +212,20 @@
 - [ ] 15. Write a program to create a Binary search tree and perform– insertion, deletion &traversal.
 
 - [ ] 16. Write a program to traversal of graph(B.F.S,D.F.S)
+
+---
+
+<br>
+<br>
+
+## Books
+
+1 Data Structures Using C and C/C++” by Aaron M. Tenenbaum, Yedidyah Langsamand Moshe J. Augenstein -PHI
+2 Fundamentals of Data Structures by Horowitz and Sahani -GalgotiaPublication
+
+### Reference Books
+
+1 An Introduction to Data Structures with applications by Jean Paul, Trembleyand Paul, G.Sorenson -McGrawHill
+2 Data Structures and Program Design in C by R. Kruse etal -Pearson Education
+3 Data Structures by Lipschutz -Schaum's Outline Series,TMH
+4 Data Structures and Algorithms by G A V Pai -TMH
