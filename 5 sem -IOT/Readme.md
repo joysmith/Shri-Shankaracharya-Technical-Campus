@@ -1,4 +1,4 @@
-## Unit 1️⃣
+## 1️⃣ Unit
 
 ### Introduction to Internet of Things:
 
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-## Unit 2️⃣
+## 2️⃣ Unit
 
 ### Connectivity:
 
@@ -64,7 +64,7 @@
 <br>
 <br>
 
-## Unit 3️⃣
+## 3️⃣ Unit
 
 ### Sensors:
 
@@ -105,7 +105,7 @@
 <br>
 <br>
 
-## Unit 4️⃣
+## 4️⃣ Unit
 
 ### Introduction to Arduino Programming:
 
@@ -130,7 +130,7 @@
 <br>
 <br>
 
-## Unit 5️⃣
+## 5️⃣ Unit
 
 ### Cloud Computing Fundamentals:
 

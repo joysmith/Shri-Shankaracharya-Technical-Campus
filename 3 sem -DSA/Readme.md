@@ -1,4 +1,4 @@
-## UNIT-1️⃣ CO1 [8 hrs]
+## 1️⃣ UNIT CO1 [8 hrs]
 
 ### Introduction:
 
@@ -45,7 +45,7 @@
 <br>
 <br>
 
-## UNIT-2️⃣ CO2 [7 hrs]
+## 2️⃣ UNIT CO2 [7 hrs]
 
 ### Stacks:
 
@@ -80,7 +80,7 @@
 <br>
 <br>
 
-## UNIT-3️⃣ CO3 [7 hrs]
+## 3️⃣ UNIT CO3 [7 hrs]
 
 ### Trees:
 
@@ -104,7 +104,7 @@
 <br>
 <br>
 
-## UNIT-4️⃣ CO4 [7 hrs]
+## 4️⃣ UNIT CO4 [7 hrs]
 
 ### Graphs:
 
@@ -133,7 +133,7 @@
 <br>
 <br>
 
-## UNIT-5️⃣ CO5 [7 hrs]
+## 5️⃣ UNIT CO5 [7 hrs]
 
 ### Searching:
 
