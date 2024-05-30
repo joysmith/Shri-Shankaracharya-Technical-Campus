@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-Introduction: Basic Terminology,  
+[] Introduction: Basic Terminology,  
 Elementary Data Organization,  
 Algorithm,  
 And Efficiency of an Algorithm,  
