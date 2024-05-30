@@ -10,36 +10,36 @@ Time and Space Complexity,
 
 ### Asymptotic notations:
 
-Asymptotic notations: Big-Oh,
-Small-Oh,
-Omega,
-little Omega and theta.
+Asymptotic notations: Big-Oh,  
+Small-Oh,  
+Omega,  
+little Omega and theta.  
 Time-Space trade-off.
 
 ### Abstract Data Types (ADT) Arrays:
 
-Abstract Data Types (ADT) Arrays: Definition,
+Abstract Data Types (ADT) Arrays: Definition,  
 Single and Multidimensional Arrays,
 
 ### Representation of Arrays:
 
-Representation of Arrays: Row Major Order,
-and Column Major Order,
-Application of arrays,
+Representation of Arrays: Row Major Order,  
+and Column Major Order,  
+Application of arrays,  
 Sparse Matrices and their representations.
 
 ### Linked lists:
 
-Linked lists: Array Implementation and Dynamic Implementation of Singly Linked Lists,
-Doubly Linked List,
+Linked lists: Array Implementation and Dynamic Implementation of Singly Linked Lists,  
+Doubly Linked List,  
 Circularly Linked List,
 
 ### Operations on a Linked List:
 
-Operations on a Linked List: Insertion,
-Deletion,
-Traversal,
-Polynomial Representation and Addition,
+Operations on a Linked List: Insertion,  
+Deletion,  
+Traversal,  
+Polynomial Representation and Addition,  
 Generalized Linked List.
 
 <br>
@@ -53,28 +53,28 @@ Stacks: Abstract Data Type,
 
 ### Primitive Stack operations:
 
-Primitive Stack operations: Push & Pop,
+Primitive Stack operations: Push & Pop,  
 Array and Linked Implementation of Stack in C,
 
 ### Application of stack:
 
-Application of stack: Prefix and Post fix Expressions,
-Evaluation of post fix expression,
-Recursion,
-Tower of Hanoi Problem,
-Simulating Recursion,
-Principles of recursion,
-Tail recursion,
+Application of stack: Prefix and Post fix Expressions,  
+Evaluation of post fix expression,  
+Recursion,  
+Tower of Hanoi Problem,  
+Simulating Recursion,  
+Principles of recursion,  
+Tail recursion,  
 Removal of recursion Queues,
 
 ### Operations on Queue:
 
-Operations on Queue: Create,
-Add,
-Delete,
-Full and Empty,
-Circular queues,
-Array and linked implementation of queues in C,
+Operations on Queue: Create,  
+Add,  
+Delete,  
+Full and Empty,  
+Circular queues,  
+Array and linked implementation of queues in C,  
 Dequeue and Priority Queue.
 
 <br>
@@ -84,21 +84,21 @@ Dequeue and Priority Queue.
 
 ### Trees:
 
-Trees: Basic terminology,
+Trees: Basic terminology,  
 Binary Trees,
 
 ### Binary Tree Representation:
 
-Binary Tree Representation: Array Representation and Dynamic Representation,
-Complete Binary Tree,
-Algebraic Expressions,
-Extended Binary Trees,
+Binary Tree Representation: Array Representation and Dynamic Representation,  
+Complete Binary Tree,  
+Algebraic Expressions,  
+Extended Binary Trees,  
 Array and Linked Representation of Binary trees,
 
 ### Traversal algorithms:
 
-Traversal algorithms: Inorder,
-Preorder and Postorder,
+Traversal algorithms: Inorder,  
+Preorder and Postorder,  
 Threaded Binary trees.
 
 <br>
@@ -112,14 +112,14 @@ Graphs: Terminology,
 
 ### Sequential and linked Representations of Graphs:
 
-Sequential and linked Representations of Graphs: Adjacency Matrices,
-Adjacency List,
+Sequential and linked Representations of Graphs: Adjacency Matrices,  
+Adjacency List,  
 Adjacency Multi list,
 
 ### Graph Traversal :
 
-Graph Traversal : Depth First Search and Breadth First Search,
-Connected Component,
+Graph Traversal : Depth First Search and Breadth First Search,  
+Connected Component,  
 Spanning Trees,
 
 ### Minimum Cost Spanning Trees:
@@ -137,31 +137,31 @@ Transistive Closure and Shortest Path algorithm: Marshal Algorithm and Dijikstra
 
 ### Searching:
 
-Searching: Sequential search,
-Binary Search,
+Searching: Sequential search,  
+Binary Search,  
 Complexity of Search Algorithm,
 
 ### Comparison and Analysis Internal Sorting:
 
-Comparison and Analysis Internal Sorting: insertion Sort,
-Selection,
-Bubble Sort,
-Quick Sort,
-Two Way Merge Sort,
-Heap Sort,
+Comparison and Analysis Internal Sorting: insertion Sort,  
+Selection,  
+Bubble Sort,  
+Quick Sort,  
+Two Way Merge Sort,  
+Heap Sort,  
 Radix Sort,
 
 ### Search Trees:
 
-Search Trees: Binary Search Trees(BST),
-Insertion and Deletion in BST,
-AVL trees,
-Introduction to m-way Search Trees,
+Search Trees: Binary Search Trees(BST),  
+Insertion and Deletion in BST,  
+AVL trees,  
+Introduction to m-way Search Trees,  
 B Trees & B+ Trees,
 
 ### Hashing:
 
-Hashing: Hash Function,
+Hashing: Hash Function,  
 Collision Resolution Strategies,
 
 ### Storage Management:
