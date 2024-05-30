@@ -4,12 +4,16 @@
 
 Introduction: Basic Terminology,
 Elementary Data Organization,
-Algorithm, And Efficiency of an Algorithm,
+Algorithm,
+And Efficiency of an Algorithm,
 Time and Space Complexity,
 
 ### Asymptotic notations:
 
-Asymptotic notations: Big-Oh, Small-Oh, Omega, little Omega and theta.
+Asymptotic notations: Big-Oh,
+Small-Oh,
+Omega,
+little Omega and theta.
 Time-Space trade-off.
 
 ### Abstract Data Types (ADT) Arrays:
@@ -19,7 +23,8 @@ Single and Multidimensional Arrays,
 
 ### Representation of Arrays:
 
-Representation of Arrays: Row Major Order, and Column Major Order,
+Representation of Arrays: Row Major Order,
+and Column Major Order,
 Application of arrays,
 Sparse Matrices and their representations.
 
@@ -31,7 +36,10 @@ Circularly Linked List,
 
 ### Operations on a Linked List:
 
-Operations on a Linked List: Insertion, Deletion, Traversal, Polynomial Representation and Addition,
+Operations on a Linked List: Insertion,
+Deletion,
+Traversal,
+Polynomial Representation and Addition,
 Generalized Linked List.
 
 <br>
@@ -47,6 +55,9 @@ Stacks: Abstract Data Type,
 
 Primitive Stack operations: Push & Pop,
 Array and Linked Implementation of Stack in C,
+
+### Application of stack:
+
 Application of stack: Prefix and Post fix Expressions,
 Evaluation of post fix expression,
 Recursion,
@@ -58,7 +69,11 @@ Removal of recursion Queues,
 
 ### Operations on Queue:
 
-Operations on Queue: Create, Add, Delete, Full and Empty, Circular queues,
+Operations on Queue: Create,
+Add,
+Delete,
+Full and Empty,
+Circular queues,
 Array and linked implementation of queues in C,
 Dequeue and Priority Queue.
 
@@ -71,6 +86,9 @@ Dequeue and Priority Queue.
 
 Trees: Basic terminology,
 Binary Trees,
+
+### Binary Tree Representation:
+
 Binary Tree Representation: Array Representation and Dynamic Representation,
 Complete Binary Tree,
 Algebraic Expressions,
@@ -79,7 +97,9 @@ Array and Linked Representation of Binary trees,
 
 ### Traversal algorithms:
 
-Traversal algorithms: Inorder, Preorder and Postorder, Threaded Binary trees.
+Traversal algorithms: Inorder,
+Preorder and Postorder,
+Threaded Binary trees.
 
 <br>
 <br>
@@ -89,7 +109,12 @@ Traversal algorithms: Inorder, Preorder and Postorder, Threaded Binary trees.
 ### Graphs:
 
 Graphs: Terminology,
-Sequential and linked Representations of Graphs: Adjacency Matrices, Adjacency List, Adjacency Multi list,
+
+### Sequential and linked Representations of Graphs:
+
+Sequential and linked Representations of Graphs: Adjacency Matrices,
+Adjacency List,
+Adjacency Multi list,
 
 ### Graph Traversal :
 
@@ -100,6 +125,9 @@ Spanning Trees,
 ### Minimum Cost Spanning Trees:
 
 Minimum Cost Spanning Trees: Prims and Kruskal algorithm.
+
+### Transistive Closure and Shortest Path algorithm:
+
 Transistive Closure and Shortest Path algorithm: Marshal Algorithm and Dijikstra Algorithm.
 
 <br>
@@ -112,8 +140,16 @@ Transistive Closure and Shortest Path algorithm: Marshal Algorithm and Dijikstra
 Searching: Sequential search,
 Binary Search,
 Complexity of Search Algorithm,
-Comparison and Analysis Internal Sorting: insertion Sort, Selection, Bubble Sort, Quick Sort,
-Two Way Merge Sort, Heap Sort, Radix Sort,
+
+### Comparison and Analysis Internal Sorting:
+
+Comparison and Analysis Internal Sorting: insertion Sort,
+Selection,
+Bubble Sort,
+Quick Sort,
+Two Way Merge Sort,
+Heap Sort,
+Radix Sort,
 
 ### Search Trees:
 
@@ -125,5 +161,9 @@ B Trees & B+ Trees,
 
 ### Hashing:
 
-Hashing: Hash Function, Collision Resolution Strategies ,
+Hashing: Hash Function,
+Collision Resolution Strategies,
+
+### Storage Management:
+
 Storage Management: Garbage Collection and Compaction.
