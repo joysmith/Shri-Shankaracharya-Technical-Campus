@@ -215,3 +215,7 @@
 <br>
 
 ## Books
+
+1. Internet of Things: A Hands-On Approach by Vijay Madisetti, Arshdeep Bahga -Orient Blackswan Private Limited.
+2. Fundamentals of Wireless Sensor Networks: Theory and Practice by Waltenegus Dargie, Christian Poellabauer -Willey Publication
+3. Internet of Things with Arduino Cookbook by Macro Schwar -Packet Publishing Ltd
