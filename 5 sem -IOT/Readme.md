@@ -160,7 +160,7 @@
 <br>
 <br>
 
-## LAB (any 10)
+## 🧪 LAB (any 10)
 
 - [ ] 1. Introduction to various sensors and actuators.
      a) PIR Motion Sensor.

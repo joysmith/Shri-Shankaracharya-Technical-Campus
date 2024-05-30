@@ -173,7 +173,7 @@
 
 ---
 
-## LAB (any 10)
+## 🧪 LAB (any 10)
 
 - [ ] 1.Write a program to perform following operations in one dimensional array, Insertion,
       Deletion and Searching (Linear & Binary).
