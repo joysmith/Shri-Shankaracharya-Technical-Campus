@@ -167,3 +167,48 @@
 ### Storage Management:
 
 - [ ] Storage Management: Garbage Collection and Compaction.
+
+<br>
+<br>
+
+---
+
+## LAB (any 10)
+
+- [ ] 1.Write a program to perform following operations in one dimensional array, Insertion,
+      Deletion and Searching (Linear & Binary).
+
+- [ ] 2.Write a program to implement stack and perform push and pop operations.
+
+- [ ] 3.Write a program to convert infix to postfix expressions using stack.
+
+- [ ] 4.Write a program to perform following operations on a linear queue-addition, deletion,
+      traversing.
+
+- [ ] 5.Write a program to perform following operations on a circular queue-addition, deletion,
+      traversing.
+
+- [ ] 6.Write a program to perform following operations on a double ended queue- addition, deletion,
+      traversing.
+
+- [ ] 7.Write a program to perform following operations on a single link list-creation, inversion,deletion.
+
+- [ ] 8.Write a program to perform following operations on a double link list–creation, insertion,
+      deletion.
+
+- [ ] 9.Write a program to perform implement polynomial in link list and perform.
+      a) Polynomial arithmetic b)Evaluation of polynomial
+
+- [ ] 10. Write a program to perform implement a linked stack and linked queue.
+
+- [ ] 11. Write a program to perform Insertion, selection and bubble sort.
+
+- [ ] 12.Write a program to perform quick sort.
+
+- [ ] 13.Write a program to perform merge sort.
+
+- [ ] 14.Write a program to perform heap sort.
+
+- [ ] 15. Write a program to create a Binary search tree and perform– insertion, deletion &traversal.
+
+- [ ] 16. Write a program to traversal of graph(B.F.S,D.F.S)
