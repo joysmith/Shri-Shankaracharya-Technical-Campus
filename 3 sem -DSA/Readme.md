@@ -34,6 +34,9 @@ Circularly Linked List,
 Operations on a Linked List: Insertion, Deletion, Traversal, Polynomial Representation and Addition,
 Generalized Linked List.
 
+<br>
+<br>
+
 ## UNIT-II CO2 [7 hrs]
 
 ### Stacks:
@@ -59,6 +62,9 @@ Operations on Queue: Create, Add, Delete, Full and Empty, Circular queues,
 Array and linked implementation of queues in C,
 Dequeue and Priority Queue.
 
+<br>
+<br>
+
 ## UNIT-III CO3 [7 hrs]
 
 ### Trees:
@@ -74,6 +80,9 @@ Array and Linked Representation of Binary trees,
 ### Traversal algorithms:
 
 Traversal algorithms: Inorder, Preorder and Postorder, Threaded Binary trees.
+
+<br>
+<br>
 
 ## UNIT-IV CO4 [7 hrs]
 
@@ -92,6 +101,9 @@ Spanning Trees,
 
 Minimum Cost Spanning Trees: Prims and Kruskal algorithm.
 Transistive Closure and Shortest Path algorithm: Marshal Algorithm and Dijikstra Algorithm.
+
+<br>
+<br>
 
 ## UNIT-V CO5 [7 hrs]
 
