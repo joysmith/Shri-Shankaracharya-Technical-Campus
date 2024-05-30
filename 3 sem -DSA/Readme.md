@@ -218,12 +218,12 @@
 <br>
 <br>
 
-## Books
+## 📚 Books
 
 1. Data Structures Using C and C/C++” by Aaron M. Tenenbaum, Yedidyah Langsamand Moshe J. Augenstein -PHI
 2. Fundamentals of Data Structures by Horowitz and Sahani -GalgotiaPublication
 
-### Reference Books
+### 📚 Reference Books
 
 1. An Introduction to Data Structures with applications by Jean Paul, Trembleyand Paul, G.Sorenson -McGrawHill
 2. Data Structures and Program Design in C by R. Kruse etal -Pearson Education
