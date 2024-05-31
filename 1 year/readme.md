@@ -63,7 +63,8 @@
 - [ ] types of pointers,
 - [ ] Programs based on pointers.
 
-- [ ] ### Introduction to Arrays(1-D, 2-D) :
+### Introduction to Arrays(1-D, 2-D) :
+
 - [ ] Introduction to Arrays(1-D, 2-D) : Initialization and declaration,
 - [ ] Character arrays and Strings,
 
@@ -147,8 +148,8 @@
 ## 📚 Books
 
 1. Programming in ANSI C by E. Balaguruswamy -Tata McGraw-Hill
-   2 Let us C by Yashavant P. Kanetkar -BPB
-   3 Schaum's Outline of Programming with C by Byron Gottfried -McGraw-Hill.
+2. Let us C by Yashavant P. Kanetkar -BPB
+3. Schaum's Outline of Programming with C by Byron Gottfried -McGraw-Hill.
 
 ### 📚 Reference Books
 
