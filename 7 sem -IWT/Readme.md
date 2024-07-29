@@ -131,54 +131,7 @@ What is XML
 <br>
 <br>
 
-## 🧪 LAB (any 10)
-
-- [ ] 1. Introduction to various sensors and actuators.
-     a) PIR Motion Sensor.
-     b) Rain Drop Sensor.
-     c) Moisture Sensor.
-     d) Temperature Sensor.
-     e) Touch Sensor.
-     f) Infrared Sensor.
-     g) RFID Sensor.
-     h) Ultrasonic Sensor.
-     i) Bluetooth Module.
-     j) Wi-Fi Module.
-     k) LED/OLED
-     l) Servo Motor.
-
-- [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment.
-
-- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later
-     at regular intervals.
-
-- [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point
-     (AP) mode .
-
-- [ ] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
-     Mode (STA).
-
-- [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
-     humidity readings on screen.
-
-- [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and
-     moisture readings on it.
-
-- [ ] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor
-     information to cell phone utilizing Bluetooth.
-
-- [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF
-     when '1'/'0' is sent from cell phone utilizing Bluetooth.
-
-- [ ] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to
-      thingspeak,Blynk or any other free cloud.
-
-- [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from
-      thingspeak cloud and display it using OLED.
-
-- [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU.
-
-- [ ] 13. Study of other IoT Boards and components available. (Student Activity)
+## 🧪 LAB
 
 ---
 
@@ -187,6 +140,11 @@ What is XML
 
 ## 📚 Books
 
-1. Internet of Things: A Hands-On Approach by Vijay Madisetti, Arshdeep Bahga -Orient Blackswan Private Limited.
-2. Fundamentals of Wireless Sensor Networks: Theory and Practice by Waltenegus Dargie, Christian Poellabauer -Willey Publication
-3. Internet of Things with Arduino Cookbook by Macro Schwar -Packet Publishing Ltd
+1. Internet & Intranet Engineering by Daniel Minoli -TMH
+2. Internet for Every One by Alexis Leon and Mathews Leon -Tech World
+
+## Reference Books:
+
+1. Using HTML 4, XML and JAVA by Eric Ladd, Jim O’Donnel -Prentice Hall of India -1999
+2. Beginning Java Script by Paul Wilton -SPD Publications
+3. Frontiers of Electronics of Commerce by Ravi kalakota & Andrew B. Whinston -Addison Wesley
