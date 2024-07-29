@@ -6,6 +6,8 @@
 <br>
 <br>
 
+# 1. Syllabus<a id='1'></a>
+
 ## 1️⃣ Unit
 
 #### INTRODUCTION TO INTERNET:
@@ -151,14 +153,16 @@ What is XML
 <br>
 <br>
 
-## 🧪 LAB
+# 2. 🧪 Lab <a id='2'></a>
+
+- not defined yet
 
 ---
 
 <br>
 <br>
 
-## 📚 Books
+# 3. 📚 Books<a id='3'></a>
 
 1. Internet & Intranet Engineering by Daniel Minoli -TMH
 2. Internet for Every One by Alexis Leon and Mathews Leon -Tech World
@@ -168,3 +172,10 @@ What is XML
 1. Using HTML 4, XML and JAVA by Eric Ladd, Jim O’Donnel -Prentice Hall of India -1999
 2. Beginning Java Script by Paul Wilton -SPD Publications
 3. Frontiers of Electronics of Commerce by Ravi kalakota & Andrew B. Whinston -Addison Wesley
+
+---
+
+<br>
+<br>
+
+# 4. Notes<a id='4'></a>

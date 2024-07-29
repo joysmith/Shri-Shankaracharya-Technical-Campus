@@ -8,12 +8,6 @@
 
 # 1. Syllabus<a id='1'></a>
 
-# 2. Lab<a id='2'></a>
-
-# 3. Books<a id='3'></a>
-
-# 4. Notes<a id='4'></a>
-
 ## 1️⃣ Unit
 
 ### Introduction to Blockchain:
@@ -95,7 +89,7 @@
 <br>
 <br>
 
-## 🧪 LAB Blockchain Solidity Lab
+# 2. 🧪 Lab Blockchain Solidity Lab <a id='2'></a>
 
 - [ ] 1. Introduction to Ethereum , Ethereum Nodes, Ethereum Accounts and Ethereum Addresses,
 - [ ] 2. Creating an Ethereum Account Using Meta Mask, Creating an Ethereum Account Using My Ether Wallet (MEW),Ether (ETH)
@@ -118,7 +112,7 @@
 <br>
 <br>
 
-## 📚 Books
+# 3. 📚 Books<a id='3'></a>
 
 1. Blockchain Technology: Concepts and Applications by Kumar Saurabh and Ashutosh Saxena -Wiley Publications, 2020
 2. Blockchain Basics by Daniel Drescher -Apress Publications, 2017
@@ -131,3 +125,10 @@
 1. Blockchain Ultimate guide to understand Blockchain, bitcoin, cryptocurrencies, smart contract by Mark Gates -Wise Fox Publishing, 2017
 2. Blockchain For Dummies by Tiana Laurence John Wiley & Sons, 2018
 3. Beginning blockchain: A beginner guide to building Blockchain solutions by Bikramaditya Singhal, Gautam Dhameja and Priyansu Sekhar -Panda Apress Publications, 2018
+
+---
+
+<br>
+<br>
+
+# 4. Notes<a id='4'></a>
