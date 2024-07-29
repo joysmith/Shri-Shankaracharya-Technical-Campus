@@ -135,6 +135,8 @@
 
 ## 📚 Books
 
-1. Internet of Things: A Hands-On Approach by Vijay Madisetti, Arshdeep Bahga -Orient Blackswan Private Limited.
-2. Fundamentals of Wireless Sensor Networks: Theory and Practice by Waltenegus Dargie, Christian Poellabauer -Willey Publication
-3. Internet of Things with Arduino Cookbook by Macro Schwar -Packet Publishing Ltd
+1. Blockchain Technology: Concepts and Applications by Kumar Saurabh and Ashutosh Saxena -Wiley Publications, 2020
+2. Blockchain Basics by Daniel Drescher -Apress Publications, 2017
+3. Blockchain: The Blockchain for Beginnings by Josh Thompson -Create Space Independent Publishing Platform, 2017
+4. Bitcoin and cryptocurrency technologies: a comprehensive introduction by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder -Princeton University Press, 2016
+5. Blockchain Technology: Concepts and Applications by Kumar Saurabh, AshutoshSaxena -Wiley, 2020
