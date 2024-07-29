@@ -1,159 +1,78 @@
 ## 1️⃣ Unit
 
-### Introduction to Internet of Things:
+### Introduction to Blockchain:
 
-- [ ] Introduction to Internet of Things: Origin of Terminology IoT,
-- [ ] Applications of IoT,
-- [ ] Characteristics of IoT,
-- [ ] Implementation Issues of IoT,
-- [ ] IoT Architecture,
-- [ ] IoT Levels,
-- [ ] Connectivity Layers,
-- [ ] Interoperability in IoT,
-- [ ] associated technologies with IoT (M2M, Telemedicine,
-- [ ] Big Data,
-- [ ] Cloud,
-- [ ] Smart Grid,
-- [ ] IoV,
-- [ ] MANET,
-- [ ] VANET,
-- [ ] CPS,
-- [ ] SDN,
-- [ ] 3G/4G/5G),
-- [ ] Challenges in IoT,
-- [ ] IoT vs WoT,
-- [ ] IoT vs M2M,
-- [ ] IoT Network Configurations.
+- [ ] Need for Distributed Record Keeping,
+- [ ] Blockchain architecture,
+- [ ] blockheader detailed design,
+- [ ] Abstract Models for Blockchain,
+- [ ] Proof of Work ( PoW),
+- [ ] liveness and fairness,
+- [ ] Proof of Stake ( PoS) based Chains,
+- [ ] Hybrid models ( PoW + PoS),
+- [ ] Types of Blockchain,
 
 <br>
 <br>
 
 ## 2️⃣ Unit
 
-### Connectivity:
-
-- [ ] Connectivity: IoT Network Configurations,
-- [ ] Gateway Prefix Allotment,
-- [ ] Gateways,
-- [ ] Multi-homing,
-- [ ] IPv4,
-- [ ] IPv6,
-- [ ] IPv4 versus IPv6,
-
-### RPL Data Protocol:
-
-- [ ] RPL Data Protocol: MQTT,
-- [ ] CoAP,
-- [ ] AMQP,
-- [ ] DDS,
-- [ ] XMPP.
-
-### Communication Protocols:
-
-- [ ] Communication Protocols: IEEE Standards 802.3,
-- [ ] 802.11 and 802.15 and their versions,
-- [ ] Z Wave,
-- [ ] Bluetooth,
-- [ ] ZigBee,
-- [ ] 6LowPAN,
-- [ ] HART and Wireless HART,
-- [ ] NFC,
-- [ ] RFID,
-- [ ] SoftwareDefined Networking.
+- [ ] Blockchain Consensus Algorithm challenges and solutions,
+- [ ] Modeling faults and adversaries,
+- [ ] Byzantine Models of Fault tolerance,
+- [ ] Zero Knowledge proofs and protocols in Blockchain,
 
 <br>
 <br>
 
 ## 3️⃣ Unit
 
-### Sensors:
-
-- [ ] Sensors: Definition,
-- [ ] Property of Sensors,
-
-### Types of sensors:
-
-- [ ] Types of sensors: Transducers,
-- [ ] Temperature Sensors,
-- [ ] Humidity Sensors.
-- [ ] Pressure Sensors.
-- [ ] Proximity Sensors.
-- [ ] Level Sensors.
-- [ ] Accelerometers.
-- [ ] Gyroscope.
-- [ ] Gas Sensors. etc.,
-- [ ] Sensors Classes
-
-### Actuation:
-
-- [ ] Actuation: Actuator,
-
-### Actuator Types:
-
-- [ ] Actuator Types: Hydraulic Pneumatic,
-- [ ] Electrical,
-- [ ] Thermal/ Magnetic,
-- [ ] Mechanical,
-- [ ] Soft Actuators,
-- [ ] Shape memory polymer (SMP)
-- [ ] Types of Motor Actuators and their working- Servo motor,
-- [ ] Stepper motor,
-- [ ] Hydraulic motor,
-- [ ] Solenoid Relay,
-- [ ] AC motor
+- [ ] Introduction to cryptographic basics for cryptocurrency,
+- [ ] a short description of Hashing,
+- [ ] digital signature schemes,
+- [ ] encryption schemes and elliptic curve cryptography,
+- [ ] verifiable random functions,
 
 <br>
 <br>
 
 ## 4️⃣ Unit
 
-### Introduction to Arduino Programming:
+### Blockchain 2.0:
 
-- [ ] Introduction to Arduino Programming: Operators in Arduino,
-- [ ] Control Statement,
-- [ ] Loops,
-- [ ] Arrays,
-- [ ] String,
-- [ ] Math Library,
-- [ ] Random Number,
-- [ ] Interrupts,
-- [ ] Integration and calibration of Sensors and Actuators with Arduino
+- [ ] Introduction to Ethereum,
+- [ ] Ethereum Virtual Machine (EVM),
+- [ ] Wallets for Ethereum,
+- [ ] Solidity,
+- [ ] Smart Contracts,
+- [ ] Attacks on smart contracts,
+- [ ] The Turing Completeness of Smart Contract Languages and verification challenges,
 
-### Implementation of IoT:
+#### Blockchain 3.0:
 
-- [ ] Implementation of IoT: Introduction to Arduino and NodeMCU (ESP8266) board,
-- [ ] Programming NodeMCU using Arduino,
-- [ ] Connectivity of Sensors and Actuators with NodeMCU,
-- [ ] Introduction to Python programming,
-- [ ] Introduction to Raspberry PI.
+- [ ] Hyperledger implementation on Ethereum,
+- [ ] the plug and play platform and mechanisms in permissioned blockchain,
 
 <br>
 <br>
 
 ## 5️⃣ Unit
 
-### Cloud Computing Fundamentals:
+### Application of Blockchain:
 
-- [ ] Cloud Computing Fundamentals: Recent Trends in Computing,
-- [ ] Evolution of Cloud Computing,
-- [ ] Evolution of Cloud Computing,
-- [ ] Business Advantages,
-- [ ] Components
-
-### Service Models:
-
-- [ ] Service Models: Software-as-a-Service(SaaS),
-- [ ] Platform-as-a-Service (PaaS),
-- [ ] Infrastructure-as-aService (IaaS),
-- [ ] Multi-cloud,
-- [ ] Inter-cloud,
-- [ ] Cloud Computing Service Management and Security,
-
-### Case studies:
-
-- [ ] Case studies: Open stack,
-- [ ] Microsoft Azure,
-- [ ] Amazon Elastic Compute Cloud (EC2)
+- [ ] Bitcoin- Bitcoin consensus,
+- [ ] Wallet,
+- [ ] Bitcoin Blocks,
+- [ ] Merkley Tree,
+- [ ] hardness of mining,
+- [ ] transaction verifiability,
+- [ ] anonymity,
+- [ ] forks,
+- [ ] double spending,
+- [ ] mathematical analysis of properties of Bitcoin,
+- [ ] Altcoins,
+- [ ] Medical record management systems,
+- [ ] DNS records,
 
 ---
 
