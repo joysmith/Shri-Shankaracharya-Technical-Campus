@@ -140,3 +140,9 @@
 3. Blockchain: The Blockchain for Beginnings by Josh Thompson -Create Space Independent Publishing Platform, 2017
 4. Bitcoin and cryptocurrency technologies: a comprehensive introduction by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder -Princeton University Press, 2016
 5. Blockchain Technology: Concepts and Applications by Kumar Saurabh, AshutoshSaxena -Wiley, 2020
+
+## 📚 Reference
+
+1. Blockchain Ultimate guide to understand Blockchain, bitcoin, cryptocurrencies, smart contract by Mark Gates -Wise Fox Publishing, 2017
+2. Blockchain For Dummies by Tiana Laurence John Wiley & Sons, 2018
+3. Beginning blockchain: A beginner guide to building Blockchain solutions by Bikramaditya Singhal, Gautam Dhameja and Priyansu Sekhar -Panda Apress Publications, 2018
