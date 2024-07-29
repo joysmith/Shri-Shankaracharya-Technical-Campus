@@ -6,6 +6,14 @@
 <br>
 <br>
 
+# 1. Syllabus<a id='1'></a>
+
+# 2. Lab<a id='2'></a>
+
+# 3. Books<a id='3'></a>
+
+# 4. Notes<a id='4'></a>
+
 ## 1️⃣ Unit
 
 ### Introduction to Blockchain:

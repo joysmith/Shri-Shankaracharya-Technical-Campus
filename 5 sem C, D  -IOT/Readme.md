@@ -6,6 +6,8 @@
 <br>
 <br>
 
+# 1. Syllabus<a id='1'></a>
+
 ## 1️⃣ Unit
 
 ### Introduction to Internet of Things:
@@ -168,7 +170,7 @@
 <br>
 <br>
 
-## 🧪 LAB (any 10)
+# 2. 🧪 Lab<a id='2'></a>
 
 - [ ] 1. Introduction to various sensors and actuators.
      a) PIR Motion Sensor.
@@ -222,8 +224,15 @@
 <br>
 <br>
 
-## 📚 Books
+# 3. 📚 Books<a id='3'></a>
 
 1. Internet of Things: A Hands-On Approach by Vijay Madisetti, Arshdeep Bahga -Orient Blackswan Private Limited.
 2. Fundamentals of Wireless Sensor Networks: Theory and Practice by Waltenegus Dargie, Christian Poellabauer -Willey Publication
 3. Internet of Things with Arduino Cookbook by Macro Schwar -Packet Publishing Ltd
+
+---
+
+<br>
+<br>
+
+# 4. Notes<a id='4'></a>
