@@ -172,7 +172,7 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [ ] 1. Introduction to various sensors and actuators.
+- [ ] 1. Introduction to various sensors and actuators [click me](link).
      a) PIR Motion Sensor.
      b) Rain Drop Sensor.
      c) Moisture Sensor.
@@ -186,38 +186,29 @@
      k) LED/OLED
      l) Servo Motor.
 
-- [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment.
+- [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment [click me](link).
 
-- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later
-     at regular intervals.
+- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later at regular intervals [click me](link).
 
-- [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point
-     (AP) mode .
+- [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point (AP) mode [click me](link).
 
-- [ ] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
-     Mode (STA).
+- [ ] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station Mode (STA) [click me](link).
 
-- [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
-     humidity readings on screen.
+- [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and humidity readings on screen [click me](link).
 
-- [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and
-     moisture readings on it.
+- [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and moisture readings on it [click me](link).
 
-- [ ] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor
-     information to cell phone utilizing Bluetooth.
+- [ ] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor information to cell phone utilizing Bluetooth [click me](link).
 
-- [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF
-     when '1'/'0' is sent from cell phone utilizing Bluetooth.
+- [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF, when '1'/'0' is sent from cell phone utilizing Bluetooth [click me](link).
 
-- [ ] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to
-      thingspeak,Blynk or any other free cloud.
+- [ ] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to thingspeak, Blynk or any other free cloud [click me](link).
 
-- [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from
-      thingspeak cloud and display it using OLED.
+- [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from thingspeak cloud and display it using OLED [click me](link).
 
-- [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU.
+- [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU [click me](link).
 
-- [ ] 13. Study of other IoT Boards and components available. (Student Activity)
+- [ ] 13. Study of other IoT Boards and components available [click me](link). (Student Activity)
 
 ---
 
