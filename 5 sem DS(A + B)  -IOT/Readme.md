@@ -172,7 +172,7 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [ ] 1. Introduction to various sensors and actuators [click me](link).
+- [ ] 1. Introduction to various sensors and actuators [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
      a) PIR Motion Sensor.
      b) Rain Drop Sensor.
      c) Moisture Sensor.
@@ -188,7 +188,7 @@
 
 - [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment [click me](link).
 
-- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later at regular intervals [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
+- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later at regular intervals [click me](link).
 
 - [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point (AP) mode [click me](link).
 
