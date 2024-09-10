@@ -227,3 +227,5 @@
 <br>
 
 # 4. Notes<a id='4'></a>
+
+- [Book](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
