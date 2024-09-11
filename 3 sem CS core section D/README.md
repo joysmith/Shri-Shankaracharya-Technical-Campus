@@ -24,6 +24,7 @@
 ## 2 setup option
 
 1. [Arch linux](https://copy.sh/v86/?profile=archlinux) with root privilege
+1. [linux](https://acceleratron.in/vm-linux-terminal) with root privilege
 
 <br>
 
