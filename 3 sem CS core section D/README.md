@@ -25,6 +25,7 @@
 
 1. [Arch linux](https://copy.sh/v86/?profile=archlinux) with root privilege
 1. [linux](https://acceleratron.in/vm-linux-terminal) with root privilege
+1. [linux](https://linuxcontainers.org/incus/try-it/?id=bde3dc73-e310-4501-8d3b-bc5af098ab17#introduction) with root privilege
 
 <br>
 
