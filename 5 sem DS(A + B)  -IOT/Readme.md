@@ -2,6 +2,7 @@
 2. [Lab](#2)
 3. [Books](#3)
 4. [Notes](#4)
+5. [Self study](#5)
 
 <br>
 <br>
@@ -228,4 +229,12 @@
 
 # 4. Notes<a id='4'></a>
 
-- [Book](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
+- Book [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
+
+# 5. Self study reference<a id='5'></a>
+
+NOTE: for students who are not attending class
+
+1. youtube playlist[click me](https://www.youtube.com/watch?v=APH6Nrar27w&list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC)
+2. youtube playlist [click me](https://www.youtube.com/watch?v=5_kUKOVH3fI&list=PLo4m8hx3sbb-9ZKw3gSWYYl-5OEnwXvaB&index=4)
+3. youtube playlist [click me](https://www.youtube.com/watch?v=unlPb-dfW7s&list=PLz8TdOA7NTzR1NxoC8yRIWfaO0Yrj9gVB)
