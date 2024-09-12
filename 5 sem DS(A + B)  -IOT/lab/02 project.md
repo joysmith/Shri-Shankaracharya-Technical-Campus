@@ -1,1 +1,1 @@
-## 2. Acquaintance with NodeMCU and perform essential programming establishment.
+## 2. WAP to blink LED light and single pole traffic light system.

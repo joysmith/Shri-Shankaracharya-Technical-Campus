@@ -1,1 +1,1 @@
-## 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point (AP) mode .
+## 4. Humidity sensor (DHT11/DHT22) with code diagram and output
