@@ -173,6 +173,7 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
+- [Lab file](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/5%20IOT.pdf>)
 - [ ] 1. Introduction to various sensors and actuators [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
      a) PIR Motion Sensor.
      b) Rain Drop Sensor.
