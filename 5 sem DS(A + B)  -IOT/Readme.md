@@ -173,7 +173,7 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- Download Lab file[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/5%20IOT.pdf>)
+- Download Lab file [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/5%20IOT.pdf>)
 
 - [ ] 1. Pin configuration of raspberry pi , Arduino UNO , and node MCU [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
 
@@ -213,7 +213,7 @@
 
 # 4. Notes<a id='4'></a>
 
-- Book [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
+- Download Book [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
 
 ---
 
