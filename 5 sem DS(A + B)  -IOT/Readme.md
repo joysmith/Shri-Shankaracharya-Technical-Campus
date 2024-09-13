@@ -239,8 +239,9 @@ restricted as provided. Student may use any other components also.
 
 # 5. Self study reference<a id='5'></a>
 
-1. Download IOT paper [click me]()
-2. Download IOT paper [click me]()
+1. Download IOT paper [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/1%20pyq%20.pdf>)
+2. Download IOT paper [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/2%20pyq%20.pdf>)
+3. To get more question paper, visit library or you can download from CSVTU website.
 
 ---
 
