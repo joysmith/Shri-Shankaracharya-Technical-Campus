@@ -250,7 +250,7 @@ restricted as provided. Student may use any other components also.
 
 # 6. Self study reference<a id='6'></a>
 
-NOTE: for students who are not attending class
+NOTE: For students who are not attending class
 
 1. youtube playlist [click me](https://www.youtube.com/watch?v=APH6Nrar27w&list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC)
 2. youtube playlist [click me](https://www.youtube.com/watch?v=5_kUKOVH3fI&list=PLo4m8hx3sbb-9ZKw3gSWYYl-5OEnwXvaB&index=4)
