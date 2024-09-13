@@ -237,7 +237,7 @@ restricted as provided. Student may use any other components also.
 <br>
 <br>
 
-# 5. Self study reference<a id='5'></a>
+# 5. Previous year question paper<a id='5'></a>
 
 1. Download IOT paper [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/1%20pyq%20.pdf>)
 2. Download IOT paper [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/2%20pyq%20.pdf>)
