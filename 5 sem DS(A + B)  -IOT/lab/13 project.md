@@ -1,1 +1,1 @@
-## 10. OS installation in Raspberry pi
+## 13. Study of other IoT Boards and components available. (Student Activity)

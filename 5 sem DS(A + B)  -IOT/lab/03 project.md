@@ -1,1 +1,1 @@
-## 3. To measure the distance between the Ultrasonic Sensor and an object using an Arduino board and an LED Light
+## 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later at regular intervals

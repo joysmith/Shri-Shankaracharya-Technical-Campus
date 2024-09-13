@@ -1,1 +1,1 @@
-## 10. OS installation in Raspberry pi
+## 12. Creating a webpage and display the values received from sensors through NodeMCU.
