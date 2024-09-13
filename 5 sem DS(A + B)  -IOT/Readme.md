@@ -2,7 +2,8 @@
 2. [Lab](#2)
 3. [Books](#3)
 4. [Notes](#4)
-5. [Self study](#5)
+5. [Previous year paper](#5)
+6. [Self study](#6)
 
 <br>
 <br>
@@ -237,6 +238,16 @@ restricted as provided. Student may use any other components also.
 <br>
 
 # 5. Self study reference<a id='5'></a>
+
+1. Download IOT paper [click me]()
+2. Download IOT paper [click me]()
+
+---
+
+<br>
+<br>
+
+# 6. Self study reference<a id='6'></a>
 
 NOTE: for students who are not attending class
 
