@@ -173,27 +173,43 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- Download Lab file [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/5%20IOT.pdf>)
+Note: Students need to perform at least 10 experiments. Use of sensors and actuators are not
+restricted as provided. Student may use any other components also.
 
-- [ ] 1. Pin configuration of raspberry pi , Arduino UNO , and node MCU [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
-
-- [ ] 2. WAP to blink LED light and single pole traffic light system. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/02%20project.md>).
-
-- [ ] 3. To measure the distance between the Ultrasonic Sensor and an object using an Arduino board and an LED Light. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/03%20project.md>).
-
-- [ ] 4. Humidity sensor (DHT11/DHT22) with code diagram and output. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
-
-- [ ] 5. Motion Detection with ESP32 & PIR Sensor. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/05%20project.md>).
-
-- [ ] 6. ESP32 Boards with In-built Temperature Sensor [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
-
-- [ ] 7. Switching light on/off remotely using ESP8266 (AP-IF) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
-
-- [ ] 8. Raspberry Pi Light Sensor using an LDR [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
-
-- [ ] 9. Raspberry Pi Colour Sensor using an LDR [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
-
-- [ ] 10. OS installation in Raspberry pi. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/10%20project.md>).
+- [ ] 1. Introduction to various sensors and actuators. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
+     a) PIR Motion Sensor.
+     b) Rain Drop Sensor.
+     c) Moisture Sensor.
+     d) Temperature Sensor.
+     e) Touch Sensor.
+     f) Infrared Sensor.
+     g) RFID Sensor.
+     h) Ultrasonic Sensor.
+     i) Bluetooth Module.
+     j) Wi-Fi Module.
+     k) LED/OLED
+     l) Servo Motor.
+- [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/02%20project.md>).
+- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later
+     at regular intervals. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/03%20project.md>).
+- [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point
+     (AP) mode . [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
+- [ ] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
+     Mode (STA) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/05%20project.md>).
+- [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
+     humidity readings on screen.[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
+- [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and
+     moisture readings on it. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
+- [ ] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor
+     information to cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
+- [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF
+     when '1'/'0' is sent from cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
+- [ ] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to
+      thingspeak,Blynk or any other free cloud. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/10%20project.md>).
+- [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from
+      thingspeak cloud and display it using OLED. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
+- [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
+- [ ] 13. Study of other IoT Boards and components available. (Student Activity). [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/13%20project.md>).
 
 ---
 
