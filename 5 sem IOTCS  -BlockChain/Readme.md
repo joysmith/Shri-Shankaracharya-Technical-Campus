@@ -158,3 +158,4 @@
 NOTE: For students who are not attending class
 
 1. youtube playlist [click me](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0)
+2. youtube playlist [click me](https://www.youtube.com/playlist?list=PLYwpaL_SFmcDFRupamGc-9zc-vQqvkQnn)
