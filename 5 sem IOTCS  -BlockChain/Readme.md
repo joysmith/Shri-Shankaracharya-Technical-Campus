@@ -2,6 +2,8 @@
 2. [Lab](#2)
 3. [Books](#3)
 4. [Notes](#4)
+5. [Previous year paper](#5)
+6. [Self study](#6)
 
 <br>
 <br>
@@ -132,3 +134,29 @@
 <br>
 
 # 4. Notes<a id='4'></a>
+
+- Download Book (will be added soon) [click me]()
+
+---
+
+<br>
+<br>
+
+# 5. Previous year question paper<a id='5'></a>
+
+1. Download BlockChain paper [click me]()
+
+2. To get more question paper, visit library or you can download from CSVTU website.
+
+---
+
+<br>
+<br>
+
+# 6. Self study reference<a id='6'></a>
+
+NOTE: For students who are not attending class
+
+1. youtube playlist [click me](https://www.youtube.com/watch?v=APH6Nrar27w&list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC)
+2. youtube playlist [click me](https://www.youtube.com/watch?v=5_kUKOVH3fI&list=PLo4m8hx3sbb-9ZKw3gSWYYl-5OEnwXvaB&index=4)
+3. youtube playlist [click me](https://www.youtube.com/watch?v=unlPb-dfW7s&list=PLz8TdOA7NTzR1NxoC8yRIWfaO0Yrj9gVB)
