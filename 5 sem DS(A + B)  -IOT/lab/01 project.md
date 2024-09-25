@@ -1,17 +1,17 @@
 ## 1. Introduction to various sensors and actuators.
 
-a) PIR Motion Sensor.
-b) Rain Drop Sensor.
-c) Moisture Sensor.
-d) Temperature Sensor.
-e) Touch Sensor.
-f) Infrared Sensor.
-g) RFID Sensor.
-h) Ultrasonic Sensor.
-i) Bluetooth Module.
-j) Wi-Fi Module.
-k) LED/OLED
-l) Servo Motor.
+a) PIR Motion Sensor. <br>
+b) Rain Drop Sensor. <br>
+c) Moisture Sensor. <br>
+d) Temperature Sensor. <br>
+e) Touch Sensor. <br>
+f) Infrared Sensor. <br>
+g) RFID Sensor. <br>
+h) Ultrasonic Sensor. <br>
+i) Bluetooth Module. <br>
+j) Wi-Fi Module. <br>
+k) LED/OLED. <br>
+l) Servo Motor. <br>
 
 <br>
 <br>
