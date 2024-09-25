@@ -39,6 +39,26 @@ l) Servo Motor. <br>
 - go to menu Files--> Example--> basic--> blink
 - go to menu Tools--> Boards--> arduino avr board--> arduino uno
 - go to menu Tools--> Port--> COM(arduino)
+
+```ino
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);                      // wait for a second
+
+  digitalWrite(LED_BUILTIN, LOW);  // turn the LED off by making the voltage LOW
+  delay(1000);                     // wait for a second
+}
+
+```
+
 - click on ✅ to compile, then ➡️ to upload sketch on uno
 
 <br>
@@ -80,7 +100,7 @@ void loop() {
 
 ### How to use Serial Plotter
 
-<img src="assets/images/1.png" width="700">
+<img src="assets/images/2.png" width="700">
 
 - go to menu Files--> Example--> basic--> blink
 - go to menu Tools--> Boards--> arduino avr board--> arduino uno
