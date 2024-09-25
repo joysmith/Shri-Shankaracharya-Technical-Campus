@@ -6,3 +6,5 @@
 
 - [Block chain transaction latest block details](https://www.blockchain.com/explorer)
   click on latest block--> select any block
+
+- [How nonce value help to generate block](https://demoblockchain.org/block)
