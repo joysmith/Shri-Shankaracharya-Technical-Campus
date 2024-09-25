@@ -16,28 +16,28 @@ l) Servo Motor. <br>
 <br>
 <br>
 
-#### Where to download arduino IDE
+### Where to download arduino IDE
 
 - Download Arduino IDE [Click me](https://www.arduino.cc/en/software)
 
-#### How to Select sketch and upload
+### How to Select sketch and upload
 
 - From menu select file--> example--> digital--> BlinkwithoutDelay
 
-#### The Arduino IDE - Understanding the Preferences pane<a id="55"></a>
+### The Arduino IDE - Understanding the Preferences pane<a id="55"></a>
 
 <img src="assets/images/1.png" width="700">
 
-#### How to upload a sketch to your Arduino<a id="57"></a>
+### How to upload a sketch to your Arduino<a id="57"></a>
 
 - go to menu Files--> Example--> basic--> blink
 - go to menu Tools--> Boards--> arduino avr board--> arduino uno
 - go to menu Tools--> Port--> COM(arduino)
 - click on ✅ to compile, then ➡️ to upload sketch on uno
 
-#### How to upload a sketch to your Arduino - For Windows users<a id="58"></a>
+### How to upload a sketch to your Arduino - For Windows users<a id="58"></a>
 
-#### How to use serial monitor
+### How to use serial monitor
 
 <img src="assets/images/3.png" width="700">
 
@@ -72,7 +72,7 @@ void loop() {
 
 ---
 
-#### How to use Serial Plotter
+### How to use Serial Plotter
 
 <img src="assets/images/1.png" width="700">
 
@@ -107,7 +107,7 @@ void loop() {
 
 ---
 
-#### Documentation
+### Documentation
 
 - Serial communication documentation [Click me](https://www.arduino.cc/reference/en/language/functions/communication/serial/read/)
 - The arduino board send data to my computer/laptop
