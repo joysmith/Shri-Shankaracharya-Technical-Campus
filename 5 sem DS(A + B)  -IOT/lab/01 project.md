@@ -137,4 +137,6 @@ void loop() {
 
 - Serial communication documentation [Click me](https://www.arduino.cc/reference/en/language/functions/communication/serial/read/)
 
+- Language reference documentation [Click me](https://docs.arduino.cc/language-reference/)
+
 <br>
