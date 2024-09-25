@@ -136,6 +136,5 @@ void loop() {
 ### Documentation
 
 - Serial communication documentation [Click me](https://www.arduino.cc/reference/en/language/functions/communication/serial/read/)
-- The arduino board send data to my computer/laptop
 
 <br>
