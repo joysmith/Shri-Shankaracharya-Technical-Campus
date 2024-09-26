@@ -28,7 +28,7 @@ l) Servo Motor. <br>
 
 <br>
 
-### How to Select sketch and upload
+### How to Select sketch
 
 - From menu select file--> example--> digital--> BlinkwithoutDelay
 
