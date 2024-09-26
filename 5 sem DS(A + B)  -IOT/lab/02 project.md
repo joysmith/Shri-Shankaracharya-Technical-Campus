@@ -24,9 +24,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br>
 
-#### Install the drivers CP21012 USB chip<a id="13"></a>
+#### Install the drivers USB chip<a id="13"></a>
 
-- USB-TO-UART BRIDGE CHIPS [click me](http://esp32.net/usb-uart/)
-- Download and Install VCP Drivers for window[click me](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+- Download and Install VCP Drivers for window[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/pololu-cp2102-windows-220616.zip>)
 - restart system
-- Open arduino, go to tools--> Port"..."--> USBtoUART
