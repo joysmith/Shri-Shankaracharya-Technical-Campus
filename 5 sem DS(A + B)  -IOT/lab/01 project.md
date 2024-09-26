@@ -20,6 +20,8 @@ l) Servo Motor. <br>
 
 - Specification [Click me](https://docs.arduino.cc/hardware/uno-rev3/#tech-specs)
 
+<br>
+
 ### Where to download arduino IDE
 
 - Download Arduino IDE [Click me](https://www.arduino.cc/en/software)
