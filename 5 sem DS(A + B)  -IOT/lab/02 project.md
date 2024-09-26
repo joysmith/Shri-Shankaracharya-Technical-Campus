@@ -8,6 +8,8 @@
 
 - Installing using Arduino IDE [click me](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html#installing-using-arduino-ide)
 
+<br>
+
 #### Here are the steps
 
 1. Open arduino, go to file--> preference--> additional board manager URL:_paste json link here_
@@ -21,6 +23,8 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json
 3. Open arduino, go to tools--> boards--> ESP32 dev module
 
 4. Open arduino, go to file--> example--> _Check them out_
+
+<br>
 
 #### Install the drivers CP21012 USB chip<a id="13"></a>
 
