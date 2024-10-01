@@ -1,5 +1,7 @@
 ## 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point (AP) mode .
 
+The main difference between NodeMCU station mode and Wi-Fi access point mode is that in station mode, the NodeMCU joins an existing network, while in access point mode, it creates its own network
+
 ```ino
 #include <ESP8266WiFi.h>
 
