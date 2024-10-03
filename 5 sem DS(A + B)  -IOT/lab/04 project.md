@@ -8,7 +8,7 @@ The main difference between NodeMCU station mode and Wi-Fi access point mode is 
 WiFiClient client;
 WiFiServer server(80);
 
-#define led D5
+#define LED_BUILTIN
 
 void setup()
 {
