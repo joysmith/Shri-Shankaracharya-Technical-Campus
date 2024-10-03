@@ -98,6 +98,8 @@ This lecture will provide instructions for setting up the Metamask extension in 
 
 ---
 
+<br>
+
 #### Getting Test Ether to Use in the Course
 
 Before continuing to the next lecture, we will need to obtain some test Ether!
