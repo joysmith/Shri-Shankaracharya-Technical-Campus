@@ -93,6 +93,7 @@
 
 # 2. 🧪 Lab Blockchain Solidity Lab <a id='2'></a>
 
+- [ ] 0. basic zero class[ click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/lab/00%20project.md)
 - [ ] 1. Introduction to Ethereum , Ethereum Nodes, Ethereum Accounts and Ethereum Addresses,
 - [ ] 2. Creating an Ethereum Account Using Meta Mask, Creating an Ethereum Account Using My Ether Wallet (MEW),Ether (ETH)
 - [ ] 3. Rinke by Authenticated Faucet, How to Transfer ETH, Gas, Gas Price, Gas Limit and Opcodes, Ethereum Block Explorer, Ethereum Transactions Blocks , Ethereum Transaction’s Fields,
