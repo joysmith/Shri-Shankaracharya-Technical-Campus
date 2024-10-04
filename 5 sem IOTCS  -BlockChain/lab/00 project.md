@@ -90,7 +90,7 @@ This steps will provide instructions for setting up the Metamask extension in yo
 
 <img src="assets/images/7/5.png" width="500">
 
-12. You will need to select the Sepolia network. This is what we will use throughout the course (the video lectures may reference the Rinkeby network which has since been deprecated).
+12. You will need to select the Sepolia network.
 
 <img src="assets/images/7/6.png" width="500">
 
