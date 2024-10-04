@@ -56,7 +56,7 @@ contract Inbox {
 
 #### Metamask Setup and Configuration
 
-This lecture will provide instructions for setting up the Metamask extension in your browser.
+This steps will provide instructions for setting up the Metamask extension in your browser.
 
 1. First, install the extension for your specific browser (Chrome or Firefox recommended): [click me](https://metamask.io/download/)
 
@@ -102,12 +102,9 @@ This lecture will provide instructions for setting up the Metamask extension in 
 
 #### Getting Test Ether to Use in the Course
 
-Before continuing to the next lecture, we will need to obtain some test Ether!
+Before continuing to the next lab, we will need to obtain some test Ether!
 
-Due to the recent merge the Rinkeby Network no longer exists. For a short time, we used the Goerli network for everything in this course. This too was deprecated as of January 2023. Now, we will use the Sepolia Network. This is 100% interchangeable with Rinkeby and Goerli, so, there will be no actual difference.
-
-Since we will be using the Sepolia Network, we will need to use a Sepolia faucet to obtain test ether. Nearly all current faucets require some level of authentication to protect against DOS attacks and bots. Most faucets now require that you have real mainnet Ether to even request testnet Ether.
-
+Since we will be using the Sepolia Network, we will need to use a Sepolia faucet to obtain test ether.
 Option #1
 Ethereum Sepolia Faucet
 
