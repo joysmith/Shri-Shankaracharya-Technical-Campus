@@ -230,7 +230,7 @@ restricted as provided. Student may use any other components also.
 
 # 4. Notes<a id='4'></a>
 
-- Download 1 Unit -Question bank [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/_1%20unit%20question%20bank.pdf>)
+- Download Question bank [click me](<[<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/_1%20unit%20question%20bank.pdf>](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/_question%20bank.pdf)>)
 - Download Book [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
 
 ---
