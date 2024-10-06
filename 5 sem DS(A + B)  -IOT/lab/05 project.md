@@ -2,6 +2,35 @@
 
 The main difference between NodeMCU station mode and Wi-Fi access point mode is that in station mode, the NodeMCU joins an existing network, while in access point mode, it creates its own network:
 
+#### Boiler plate code for station mode
+
+```ino
+#include <ESP8266WiFi.h>
+
+void setup() {
+  Serial.begin(9600);
+  WiFi.begin("AIML", "@123@123");
+  while(WiFi.status() != WL_CONNECTED)
+  {
+    Serial.print("..");
+    delay(200);
+  }
+  Serial.println();
+  Serial.println("NodeMCU is Connected!");
+  Serial.println(WiFi.localIP());
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+```
+
+<br>
+
+#### Main code
+
 ```ino
 #include <ESP8266WiFi.h>
 

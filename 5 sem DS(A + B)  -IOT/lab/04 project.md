@@ -46,8 +46,8 @@ client.println("<body>");
 client.println("<h1>Welcome to the Webpage!</h1>");
 client.println("<h3>LED Controls<h3>");
 client.println("<br>");
-client.println("<a href=\"/on\"\"><button>LED 1 ON</button></a>");
-client.println("<a href=\"/off\"\"><button>LED 1 OFF</button></a><br/>");
+client.println("<a href=\"/on\"\"><button>LED 1 OFF</button></a>");
+client.println("<a href=\"/off\"\"><button>LED 1 ON</button></a><br/>");
 client.println("</body>");
 client.println("</html>");
 }
