@@ -136,10 +136,10 @@ DHT dht(D5, DHT11);
 
 WiFiClient client;
 
-// copy channel number from Thingspeak account
+// 1️⃣ copy channel number from Thingspeak account
 long myChannelNumber = 2684307;
 
-// get the api Write key from thingspeak account
+// 2️⃣ get the api Write key from thingspeak account
 const char myWriteAPIKey[] = "7A7AEXW4357E3YT9";
 
 void setup() {
