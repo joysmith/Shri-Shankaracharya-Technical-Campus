@@ -41,7 +41,7 @@ Open arduino IDE and follow steps
 
 <br>
 
-#### Version 1 college
+#### Version 1 college sonu sir code
 
 ```ino
 #include <DHT.h> // Including library for dht
