@@ -1,5 +1,35 @@
 ## 10. Compose a program on NodeMCU to transfer temperature and stickiness information to thingspeak,Blynk or any other free cloud
 
+<img src="assets/images/10/1.png" width="700">
+
+<img src="assets/images/10/2.png" width="700">
+
+<img src="assets/images/10/3.png" width="700">
+
+<img src="assets/images/10/4.png" width="700">
+
+<img src="assets/images/10/5.png" width="700">
+
+<img src="assets/images/10/6.png" width="700">
+
+<img src="assets/images/10/7.png" width="700">
+
+<img src="assets/images/10/8.png" width="700">
+
+<img src="assets/images/10/9.png" width="700">
+
+<img src="assets/images/10/10.png" width="700">
+
+<img src="assets/images/10/11.png" width="700">
+
+<img src="assets/images/10/12.png" width="700">
+
+<img src="assets/images/10/13.png" width="700">
+
+<img src="assets/images/10/14.png" width="700">
+
+<img src="assets/images/10/15.png" width="700">
+
 ```ino
 #include <DHT.h> // Including library for dht
 #include <ESP8266WiFi.h>
