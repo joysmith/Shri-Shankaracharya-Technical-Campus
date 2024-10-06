@@ -30,6 +30,19 @@
 
 <img src="assets/images/10/15.png" width="700">
 
+<br>
+
+#### How to install library
+
+Open arduino IDE and follow steps
+
+- Go to sketch--> include library--> manage library--> Search: "DHT11" by adafruit --> install all
+- Go to sketch--> include library--> manage library--> Search: "Thingspeak" by mathwork --> install
+
+<br>
+
+#### Version 1 college
+
 ```ino
 #include <DHT.h> // Including library for dht
 #include <ESP8266WiFi.h>
@@ -103,5 +116,56 @@ Serial.println("Waiting...");
 
 // thingspeak needs minimum 15 sec delay between updates
 delay(5000);
+}
+```
+
+<br>
+
+#### Version 2: outside
+
+<img src="assets/images/10/16.png" width="700">
+
+<img src="assets/images/10/17.png" width="700">
+
+```ino
+#include <ESP8266WiFi.h>
+#include <DHT.h>
+#include <ThingSpeak.h>
+
+DHT dht(D5, DHT11);
+
+WiFiClient client;
+
+// copy channel number from Thingspeak account
+long myChannelNumber = 2684307;
+
+// get the api Write key from thingspeak account
+const char myWriteAPIKey[] = "7A7AEXW4357E3YT9";
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  WiFi.begin("iot", "project1234");
+  while(WiFi.status() != WL_CONNECTED)
+  {
+    delay(200);
+    Serial.print("..");
+  }
+  Serial.println();
+  Serial.println("NodeMCU is connected!");
+  Serial.println(WiFi.localIP());
+  dht.begin();
+  ThingSpeak.begin(client);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  float h = dht.readHumidity();
+  float t = dht.readTemperature();
+  Serial.println("Temperature: " + (String) t);
+  Serial.println("Humidity: " + (String) h);
+  ThingSpeak.writeField(myChannelNumber, 1, t, myWriteAPIKey);
+  ThingSpeak.writeField(myChannelNumber, 2, h, myWriteAPIKey);
+  delay(2000);
 }
 ```
