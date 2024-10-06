@@ -177,7 +177,7 @@
 Note: Students need to perform at least 10 experiments. Use of sensors and actuators are not
 restricted as provided. Student may use any other components also.
 
-- [ ] 1. Introduction to various sensors and actuators. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
+- [x] 1. Introduction to various sensors and actuators. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/01%20project.md>).
      a) PIR Motion Sensor.
      b) Rain Drop Sensor.
      c) Moisture Sensor.
@@ -190,12 +190,12 @@ restricted as provided. Student may use any other components also.
      j) Wi-Fi Module.
      k) LED/OLED
      l) Servo Motor.
-- [ ] 2. Acquaintance with NodeMCU and perform essential programming establishment. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/02%20project.md>).
-- [ ] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later
+- [x] 2. Acquaintance with NodeMCU and perform essential programming establishment. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/02%20project.md>).
+- [x] 3. Connect LED/Buzzer with NodeMCU and compose a program to turn ON LED for 1 sec later
      at regular intervals. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/03%20project.md>).
-- [ ] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point
+- [x] 4. Perform Experiment to use NodeMCU ESP8266 as HTTP Server using WiFi Access Point
      (AP) mode . [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
-- [ ] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
+- [x] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
      Mode (STA) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/05%20project.md>).
 - [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
      humidity readings on screen.[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
@@ -205,7 +205,7 @@ restricted as provided. Student may use any other components also.
      information to cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
 - [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF
      when '1'/'0' is sent from cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
-- [ ] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to
+- [x] 10. Compose a program on NodeMCU to transfer temperature and stickiness information to
       thingspeak,Blynk or any other free cloud. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/10%20project.md>).
 - [ ] 11. Compose a program on NodeMCU to fetch temperature and moistness information from
       thingspeak cloud and display it using OLED. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/11%20project.md>).
