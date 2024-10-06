@@ -23,9 +23,9 @@ https://espressif.github.io/arduino-esp32/package_esp32_index.json,
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-2. Open arduino, go to tools--> board--> board manger--> search:esp8266 by esp8266 community--> install
+2. Open arduino, go to tools--> board--> board manger--> search:"esp8266" by esp8266 community OR "nodemcu" --> install
 
-3. Open arduino, go to tools--> boards--> NodeMCU 1.0
+3. Open arduino, go to tools--> boards--> NodeMCU 1.0 (ESP 12E Module)
 
 4. Open arduino, go to file--> example--> blink
 
@@ -55,16 +55,18 @@ void loop() {
 <br>
 
 ```ino
+#define led D0
+
 void setup()
 {
-  pinMode(D0, OUTPUT);
+  pinMode(led, OUTPUT);
 }
 
 void loop()
 {
-  digitalWrite(D0, HIGH);
+  digitalWrite(led, HIGH);
   delay(500);
-  digitalWrite(D0, LOW);
+  digitalWrite(led, LOW);
   delay(500);
 }
 
