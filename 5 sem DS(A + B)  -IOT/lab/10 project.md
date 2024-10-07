@@ -1,6 +1,6 @@
 ## 10. Compose a program on NodeMCU to transfer temperature and stickiness information to thingspeak,Blynk or any other free cloud
 
-- Create thing-speak account(click me)[https://thingspeak.mathworks.com/]
+- Create thing-speak account [click me](https://thingspeak.mathworks.com/)
 
 <img src="assets/images/10/1.png" width="700">
 
