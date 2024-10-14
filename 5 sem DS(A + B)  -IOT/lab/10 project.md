@@ -86,8 +86,15 @@ void loop() {
   float t = dht.readTemperature();
   Serial.println("Temperature: " + (String) t);
   Serial.println("Humidity: " + (String) h);
-  ThingSpeak.writeField(myChannelNumber, 1, t, myWriteAPIKey);
-  ThingSpeak.writeField(myChannelNumber, 2, h, myWriteAPIKey);
+
+  // Real data uncomment below lines if sensor is connected
+  // ThingSpeak.writeField(myChannelNumber, 1, t, myWriteAPIKey);
+  // ThingSpeak.writeField(myChannelNumber, 2, h, myWriteAPIKey);
+
+  // dummy data 5 , 9 change these value to see fluctuation on chart
+  ThingSpeak.writeField(myChannelNumber, 1, 5, myWriteAPIKey);
+  ThingSpeak.writeField(myChannelNumber, 2, 9, myWriteAPIKey);
+
   delay(2000);
 }
 ```
