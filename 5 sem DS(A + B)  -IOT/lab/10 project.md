@@ -67,7 +67,7 @@ const char myWriteAPIKey[] = "7A7AEXW4357E3YT9";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  WiFi.begin("iot", "project1234");
+  WiFi.begin("AIML", "@123@123");
   while(WiFi.status() != WL_CONNECTED)
   {
     delay(200);
