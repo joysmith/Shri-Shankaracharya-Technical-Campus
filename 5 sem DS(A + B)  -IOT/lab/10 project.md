@@ -67,6 +67,8 @@ const char myWriteAPIKey[] = "7A7AEXW4357E3YT9";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
+
+  // 3️⃣ write your wifi name and password inside double-quote
   WiFi.begin("Stark", "plotline");
   while(WiFi.status() != WL_CONNECTED)
   {
