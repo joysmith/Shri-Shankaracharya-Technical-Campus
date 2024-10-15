@@ -69,7 +69,7 @@ void setup() {
   Serial.begin(9600);
 
   // 3️⃣ write your wifi name and password inside double-quote
-  WiFi.begin("Stark", "plotline");
+  WiFi.begin("WiFiname", "password");
   while(WiFi.status() != WL_CONNECTED)
   {
     delay(200);
