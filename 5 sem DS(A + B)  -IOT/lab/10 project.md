@@ -67,11 +67,11 @@ const char myWriteAPIKey[] = "7A7AEXW4357E3YT9";
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  WiFi.begin("AIML", "@123@123");
+  WiFi.begin("Stark", "plotline");
   while(WiFi.status() != WL_CONNECTED)
   {
     delay(200);
-    Serial.print("..");
+    Serial.print(".., \n");
   }
   Serial.println();
   Serial.println("NodeMCU is connected!");
@@ -88,13 +88,14 @@ void loop() {
   Serial.println("Humidity: " + (String) h);
 
   // Real data uncomment below lines if sensor is connected
-  // ThingSpeak.writeField(myChannelNumber, 1, t, myWriteAPIKey);
-  // ThingSpeak.writeField(myChannelNumber, 2, h, myWriteAPIKey);
+ // ThingSpeak.writeField(myChannelNumber, 1, t, myWriteAPIKey);
+ // ThingSpeak.writeField(myChannelNumber, 2, h, myWriteAPIKey);
 
   // dummy data 5 , 9 change these value to see fluctuation on chart
-  ThingSpeak.writeField(myChannelNumber, 1, 5, myWriteAPIKey);
-  ThingSpeak.writeField(myChannelNumber, 2, 9, myWriteAPIKey);
+   ThingSpeak.writeField(myChannelNumber, 1, 5, myWriteAPIKey);
+   ThingSpeak.writeField(myChannelNumber, 2, 9, myWriteAPIKey);
 
-  delay(2000);
+
+  // delay(2000);
 }
 ```
