@@ -98,6 +98,6 @@ void loop() {
    ThingSpeak.writeField(myChannelNumber, 2, 9, myWriteAPIKey);
 
 
-  // delay(2000);
+  // delay(100);
 }
 ```
