@@ -73,7 +73,7 @@ To make led turn off
 WiFiClient client;
 WiFiServer server(80);
 
-#define LED_BUILTIN
+#define led LED_BUILTIN
 
 void setup()
 {
