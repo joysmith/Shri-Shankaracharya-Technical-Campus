@@ -100,7 +100,7 @@
 - [ ] 4. Ethereum 2.0 (ETH2). PoW vs. PoS , Eth2 Sharding, Links to Original Bitcoin & Ethereum White Papers
 - [ ] 5. Remix IDE, Compilation In Depth: ABI and Bytecode, Contract Deployment on JSVM Contract Deployment on Rinkeby Using Remix and MetaMask,
 - [ ] 6. The Structure of a Smart Contract, Solidity Basic Syntax Rules, State and Local Variables, Functions, Setters, and Getters,
-- [ ] 7. The Constructor, Coding - Variables and Functions, Variable Types: Booleans and Integers, SafeMath, Overflows and Underflows
+- [ ] 7. The Constructor, Coding - Variables and Functions, Variable Types: Booleans and Integers, SafeMath, Overflows and Underflows [click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/lab/07%20project.md)
 - [ ] 8. Fixed-Size Arrays, Coding - Fixed-Size Arrays, Dynamically-Sized Arrays, Coding - Dynamic Arrays,
 - [ ] 9. Bytes and String Types, Structs and Enums, Coding - Structs and Enums, Mappings ,Coding – Mappings,
 - [ ] 10. Storage vs. Memory (Solidity Gotchas) ,Built-In Global Variables ,
