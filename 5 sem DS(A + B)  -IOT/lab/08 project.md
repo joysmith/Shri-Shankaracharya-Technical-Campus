@@ -2,7 +2,8 @@
 
 <img src="assets/images/bluetooth.png" width="700">
 
-Download bluetooth terminal app[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/project-bluetoothterminal.apk>)
+1. Download bluetooth terminal app[click me]()
+2. Download bluetooth terminal app[click me]()
 
 ```js
 int LED = D4;
