@@ -201,7 +201,7 @@ restricted as provided. Student may use any other components also.
      humidity readings on screen.[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
 - [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and
      moisture readings on it. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
-- [ ] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor
+- [x] 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor
      information to cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/08%20project.md>).
 - [ ] 9. Connect Bluetooth with Arduino/ NodeMCU and compose a program to turn LED ON/OFF
      when '1'/'0' is sent from cell phone utilizing Bluetooth. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/09%20project.md>).
