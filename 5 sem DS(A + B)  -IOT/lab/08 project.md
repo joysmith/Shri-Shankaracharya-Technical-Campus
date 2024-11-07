@@ -1,35 +1,8 @@
 ## 8. Communicate Bluetooth with Arduino/ NodeMCU and compose a program to send sensor information to cell phone utilizing Bluetooth.
 
-```js
-void setup() {
-
- pinMode(D0, OUTPUT);
-Serial.begin(9600);
-
-}
-
-void loop() {
-
-if (Serial.available()){
-  char data;
-  data=Serial.read();
-  Serial.println(data);
-
-  if (data =='o'){
-    digitalWrite(D0,HIGH);
-    delay(1000);
-  }
-
-  else if(data =='c'){
-    digitalWrite(D0,LOW);
-    delay(1000);
-  }
-}
-
-}
-```
-
 <img src="assets/images/bluetooth.png" width="700">
+
+Download bluetooth terminal app[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/project-bluetoothterminal.apk>)
 
 ```js
 int LED = D4;
@@ -60,5 +33,36 @@ void loop() {
        Serial.write("Select either 1 or 2");
       }
     }
+}
+```
+
+#### version 2
+
+```js
+void setup() {
+
+ pinMode(D0, OUTPUT);
+Serial.begin(9600);
+
+}
+
+void loop() {
+
+if (Serial.available()){
+  char data;
+  data=Serial.read();
+  Serial.println(data);
+
+  if (data =='o'){
+    digitalWrite(D0,HIGH);
+    delay(1000);
+  }
+
+  else if(data =='c'){
+    digitalWrite(D0,LOW);
+    delay(1000);
+  }
+}
+
 }
 ```
