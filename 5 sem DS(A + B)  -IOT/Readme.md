@@ -197,7 +197,7 @@ restricted as provided. Student may use any other components also.
      (AP) mode . [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/04%20project.md>).
 - [x] 5. Perform Experiment for Controlling LED through an HTTP page Using NodeMCU Station
      Mode (STA) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/05%20project.md>).
-- [ ] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
+- [x] 6. Interact with DHT11 sensor with NodeMCU and compose a program to print temperature and
      humidity readings on screen.[click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/06%20project.md>).
 - [ ] 7. Communicate OLED with NodeMCU and compose a program to print temperature and
      moisture readings on it. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/07%20project.md>).
