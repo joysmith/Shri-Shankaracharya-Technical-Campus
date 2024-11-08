@@ -94,20 +94,20 @@
 # 2. 🧪 Lab Blockchain Solidity Lab <a id='2'></a>
 
 - [ ] 0. basic zero class[ click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/lab/00%20project.md)
-- [ ] 1. Introduction to Ethereum , Ethereum Nodes, Ethereum Accounts and Ethereum Addresses,
-- [ ] 2. Creating an Ethereum Account Using Meta Mask, Creating an Ethereum Account Using My Ether Wallet (MEW),Ether (ETH)
-- [ ] 3. Rinke by Authenticated Faucet, How to Transfer ETH, Gas, Gas Price, Gas Limit and Opcodes, Ethereum Block Explorer, Ethereum Transactions Blocks , Ethereum Transaction’s Fields,
-- [ ] 4. Ethereum 2.0 (ETH2). PoW vs. PoS , Eth2 Sharding, Links to Original Bitcoin & Ethereum White Papers
-- [ ] 5. Remix IDE, Compilation In Depth: ABI and Bytecode, Contract Deployment on JSVM Contract Deployment on Rinkeby Using Remix and MetaMask,
-- [ ] 6. The Structure of a Smart Contract, Solidity Basic Syntax Rules, State and Local Variables, Functions, Setters, and Getters,
-- [ ] 7. The Constructor, Coding - Variables and Functions, Variable Types: Booleans and Integers, SafeMath, Overflows and Underflows [click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/lab/07%20project.md)
+- [x] 1. Introduction to Ethereum , Ethereum Nodes, Ethereum Accounts and Ethereum Addresses,
+- [x] 2. Creating an Ethereum Account Using Meta Mask, Creating an Ethereum Account Using My Ether Wallet (MEW),Ether (ETH)
+- [x] 3. Rinke by Authenticated Faucet, How to Transfer ETH, Gas, Gas Price, Gas Limit and Opcodes, Ethereum Block Explorer, Ethereum Transactions Blocks , Ethereum Transaction’s Fields,
+- [x] 4. Ethereum 2.0 (ETH2). PoW vs. PoS , Eth2 Sharding, Links to Original Bitcoin & Ethereum White Papers
+- [x] 5. Remix IDE, Compilation In Depth: ABI and Bytecode, Contract Deployment on JSVM Contract Deployment on Rinkeby Using Remix and MetaMask,
+- [x] 6. The Structure of a Smart Contract, Solidity Basic Syntax Rules, State and Local Variables, Functions, Setters, and Getters,
+- [x] 7. The Constructor, Coding - Variables and Functions, Variable Types: Booleans and Integers, SafeMath, Overflows and Underflows [click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/lab/07%20project.md)
 - [ ] 8. Fixed-Size Arrays, Coding - Fixed-Size Arrays, Dynamically-Sized Arrays, Coding - Dynamic Arrays,
-- [ ] 9. Bytes and String Types, Structs and Enums, Coding - Structs and Enums, Mappings ,Coding – Mappings,
+- [x] 9. Bytes and String Types, Structs and Enums, Coding - Structs and Enums, Mappings ,Coding – Mappings,
 - [ ] 10. Storage vs. Memory (Solidity Gotchas) ,Built-In Global Variables ,
-- [ ] 11. Coding - Global Variables
+- [x] 11. Coding - Global Variables
 - [ ] 12. Contract’s Address and Balance: Payable, Receive and Fallback Functions
 - [ ] 13. Coding - Receiving Ether , Accessing the Contract’s Balance ,Protecting the Contract’s Balance ,Coding - The Contract's Balance
-- [ ] 14. Variables and Functions Visibility: Private, Public, Internal, External
+- [x] 14. Variables and Functions Visibility: Private, Public, Internal, External
 - [ ] 15. Coding - Visibility Specifiers
 
 ---
