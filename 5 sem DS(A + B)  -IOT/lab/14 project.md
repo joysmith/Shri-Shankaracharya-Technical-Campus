@@ -8,7 +8,7 @@
 1. Select "running instance"
 1. Select "launch instance", then
 1. Select "ubuntu" image as an OS as t2-micro (free one)
-1. Create key-pair login ".pem"
+1. (optional: only for putty and other ssh)Create key-pair login ".pem"
 1. ✅ Allow HTTPS traffic from the internet
 1. ✅ Allow HTTP traffic from the internet, then launch server
 1. Select "connect to server"
