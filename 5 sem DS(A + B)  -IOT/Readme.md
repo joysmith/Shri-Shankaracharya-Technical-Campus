@@ -212,7 +212,7 @@ restricted as provided. Student may use any other components also.
 - [ ] 12. Creating a webpage and display the values received from sensors through NodeMCU. [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/12%20project.md>).
 - [x] 13. Study of other IoT Boards and components available. (Student Activity). [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/13%20project.md>).
 
-- [x] EXTRA. AWS [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
+- [x] EXTRA (Unit 5: cloud computing with AWS) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
 
 ---
 
