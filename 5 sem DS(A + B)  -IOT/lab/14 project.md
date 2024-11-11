@@ -2,7 +2,6 @@
 
 ### PART 1
 
-1. open aws account [click me](https://cloudwithjoy.signin.aws.amazon.com/console)
 1. Go to aws console, select asia-pacific mumbai region
 1. Create ec2 instance: service -> compute -> ec2 instance
 1. Select "running instance"
