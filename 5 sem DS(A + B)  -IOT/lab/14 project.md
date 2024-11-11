@@ -8,13 +8,11 @@
 1. Select "running instance"
 1. Select "launch instance", then
 1. Select "ubuntu" image as an OS as t2-micro (free one)
-1. Create key-pair login ".pem" file or .ppk file, then launch server
+1. Create key-pair login ".pem"
+1. ✅ Allow HTTPS traffic from the internet
+1. ✅ Allow HTTP traffic from the internet, then launch server
 1. Select "connect to server"
-1. Download & install putty [click me](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-1. Open putty app, copy public ip from aws instance to "host name" ex: "ubuntu@51.20.191.33"
 1. Open putty gen app to generate private .ppk file from .pem file
-1. In putty app, under connection -> SSH -> auth -> credential -> .ppk (select private key file)
-1. In putty go to session and saved it with some name, then load it and open putty session to log in to ubuntu server
 
 #### how to directly open session on browser without putty
 
