@@ -12,7 +12,6 @@
 1. ✅ Allow HTTPS traffic from the internet
 1. ✅ Allow HTTP traffic from the internet, then launch server
 1. Select "connect to server"
-1. Open putty gen app to generate private .ppk file from .pem file
 
 #### how to directly open session on browser without putty
 
