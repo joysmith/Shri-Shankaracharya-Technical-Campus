@@ -240,6 +240,7 @@ restricted as provided. Student may use any other components also.
   - Fill index
   - ✅ Print should be single side.
   - ❌ double side page printout not accepted
+  - You have to write all practical (3, 4, 5, 6, 7) and print practical no. (1, 2, 8, 9, 10)
 
 ---
 
