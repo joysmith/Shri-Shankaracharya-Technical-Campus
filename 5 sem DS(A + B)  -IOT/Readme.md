@@ -235,6 +235,11 @@ restricted as provided. Student may use any other components also.
 - Download Question bank [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/_question%20bank.pdf>)
 - Download Book [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/Book%20by%20Sonu%20sir.pdf>)
 - [Download IOT LAB file](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/Resource/IOT%20lab%20file%20V_2.pdf>)
+  - Blue cover file
+  - Purchase front page and index
+  - Fill index
+  - ✅ Print should be single side.
+  - ❌ double side page printout not accepted
 
 ---
 
