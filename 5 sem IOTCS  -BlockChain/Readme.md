@@ -142,7 +142,7 @@
   - Blue cover file
   - Purchase front page and index
   - Fill index
-  - ✅ You shall print single side page.
+  - ✅ Print should be single side.
   - ❌ double side page printout not accepted
 
 ---
