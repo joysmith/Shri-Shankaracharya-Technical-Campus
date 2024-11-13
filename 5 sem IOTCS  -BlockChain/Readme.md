@@ -142,8 +142,7 @@
   - Blue cover file
   - Purchase front page and index
   - Fill index
-  - ✅ Print should be single side.
-  - ❌ double side page printout not accepted
+  - You have to write all practical(1, 2, 4, 6, 7 ,8 ,9, 10) and print practical no. 3 & 5
 
 ---
 
