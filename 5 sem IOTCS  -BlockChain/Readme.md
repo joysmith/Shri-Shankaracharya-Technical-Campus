@@ -137,7 +137,7 @@
 # 4. Notes<a id='4'></a>
 
 - Download Question bank [click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/_question%20bank.pdf)
-- Download Book (will be added soon) [click me]()
+- Download Book [Unit wise notes](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/Unit%20wise%20notes.zip)
 - [Download BLOCKCHAIN LAB file](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/Blockchain.pdf)
   - Blue cover file
   - Purchase front page and index
