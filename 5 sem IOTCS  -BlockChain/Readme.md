@@ -137,7 +137,7 @@
 # 4. Notes<a id='4'></a>
 
 - Download Question bank [click me](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/_question%20bank.pdf)
-- 1. Download Notes [Unit wise notes](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/Unit%20wise%20notes.zip)
+- 1. Download Notes [Unit wise notes](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/Unit%20wise%20notes.zip) (download and unzip the zip file)
 - 2. Download Notes [Q + Answer](https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20IOTCS%20%20-BlockChain/Resource/notes.pdf)
 - 3. Try to find answer for some question if you won't get.
 
